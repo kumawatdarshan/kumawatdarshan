@@ -28,7 +28,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### ⭐ Recent Stars
 
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (3 days ago) - ⚡ Modern fullstack web framework based on Rust and React
-- [ecnivs/no-auth-apis](https://github.com/ecnivs/no-auth-apis) (5 days ago) - Curated collection of no-auth public APIs
+- [ecnivs/NoAuthAPIs](https://github.com/ecnivs/NoAuthAPIs) (5 days ago) - Curated collection of no-auth public APIs
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) (6 days ago) - A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune
 - [wraft/wraft](https://github.com/wraft/wraft) (1 week ago) - Wraft is an open-source Document Lifecycle Management platform. 
 - [mecha-org/mechanix-gui](https://github.com/mecha-org/mechanix-gui) (1 week ago) - Mono-repository for all Mechanix OS GUI components
