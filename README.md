@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (today) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (1 week ago) - ⚡ Modern fullstack web framework based on Rust and React
 - [ecnivs/NoAuthAPIs](https://github.com/ecnivs/NoAuthAPIs) (1 week ago) - Curated collection of no-auth public APIs
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) (1 week ago) - A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune
 - [wraft/wraft](https://github.com/wraft/wraft) (1 week ago) - Wraft is an open-source Document Lifecycle Management platform. 
-- [mecha-org/mechanix-gui](https://github.com/mecha-org/mechanix-gui) (1 week ago) - Mono-repository for all Mechanix OS GUI components
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
