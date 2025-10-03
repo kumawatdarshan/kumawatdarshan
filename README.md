@@ -12,8 +12,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 week ago)
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (3 weeks ago)
-- [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (3 weeks ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (4 weeks ago)
+- [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (4 weeks ago)
 - [kumawatdarshan/geo-trivia](https://github.com/kumawatdarshan/geo-trivia) - AI based GeoPolitical Trivia quiz.  (4 months ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (8 months ago)
 
@@ -27,7 +27,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (today) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
+- [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (1 day ago) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (1 week ago) - ⚡ Modern fullstack web framework based on Rust and React
 - [ecnivs/NoAuthAPIs](https://github.com/ecnivs/NoAuthAPIs) (1 week ago) - Curated collection of no-auth public APIs
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) (1 week ago) - A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune
