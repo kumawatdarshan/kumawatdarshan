@@ -27,7 +27,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (1 day ago) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
+- [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (2 days ago) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (1 week ago) - ⚡ Modern fullstack web framework based on Rust and React
 - [ecnivs/NoAuthAPIs](https://github.com/ecnivs/NoAuthAPIs) (1 week ago) - Curated collection of no-auth public APIs
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) (1 week ago) - A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune
