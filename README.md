@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [facebookexperimental/rust-shed](https://github.com/facebookexperimental/rust-shed) (today) - Repository containing Rust crates common between other Facebook open source projects (like Mononoke or Eden).
 - [nik-rev/displaystr](https://github.com/nik-rev/displaystr) (4 days ago) - Ergonomically implement the `Display` trait
 - [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (1 week ago) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (2 weeks ago) - ⚡ Modern fullstack web framework based on Rust and React
 - [ecnivs/NoAuthAPIs](https://github.com/ecnivs/NoAuthAPIs) (2 weeks ago) - Curated collection of no-auth public APIs
-- [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) (2 weeks ago) - A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
