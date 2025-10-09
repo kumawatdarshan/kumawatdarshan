@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 week ago)
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (2 weeks ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (1 month ago)
 - [kumawatdarshan/geo-trivia](https://github.com/kumawatdarshan/geo-trivia) - AI based GeoPolitical Trivia quiz.  (4 months ago)
@@ -27,9 +27,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [nik-rev/displaystr](https://github.com/nik-rev/displaystr) (3 days ago) - Ergonomically implement the `Display` trait
-- [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (6 days ago) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
-- [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (1 week ago) - ⚡ Modern fullstack web framework based on Rust and React
+- [nik-rev/displaystr](https://github.com/nik-rev/displaystr) (4 days ago) - Ergonomically implement the `Display` trait
+- [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (1 week ago) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
+- [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (2 weeks ago) - ⚡ Modern fullstack web framework based on Rust and React
 - [ecnivs/NoAuthAPIs](https://github.com/ecnivs/NoAuthAPIs) (2 weeks ago) - Curated collection of no-auth public APIs
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) (2 weeks ago) - A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune
 
