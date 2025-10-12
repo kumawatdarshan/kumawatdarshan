@@ -27,9 +27,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [tanu1337/qwen-api](https://github.com/tanu1337/qwen-api) (2 days ago) - Qwen API RCE.
-- [facebookexperimental/rust-shed](https://github.com/facebookexperimental/rust-shed) (2 days ago) - Repository containing Rust crates common between other Facebook open source projects (like Mononoke or Eden).
-- [nik-rev/displaystr](https://github.com/nik-rev/displaystr) (6 days ago) - Ergonomically implement the `Display` trait
+- [tanu1337/qwen-api](https://github.com/tanu1337/qwen-api) (3 days ago) - Qwen API RCE.
+- [facebookexperimental/rust-shed](https://github.com/facebookexperimental/rust-shed) (3 days ago) - Repository containing Rust crates common between other Facebook open source projects (like Mononoke or Eden).
+- [nik-rev/displaystr](https://github.com/nik-rev/displaystr) (1 week ago) - Ergonomically implement the `Display` trait
 - [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (1 week ago) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (2 weeks ago) - ⚡ Modern fullstack web framework based on Rust and React
 
