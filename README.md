@@ -27,9 +27,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [VimYoung/Spell](https://github.com/VimYoung/Spell) (today) - Make desktop widgets by the mystic arts of Spell  !!
-- [tanu1337/qwen-api](https://github.com/tanu1337/qwen-api) (5 days ago) - Qwen API RCE.
-- [facebookexperimental/rust-shed](https://github.com/facebookexperimental/rust-shed) (5 days ago) - Repository containing Rust crates common between other Facebook open source projects (like Mononoke or Eden).
+- [VimYoung/Spell](https://github.com/VimYoung/Spell) (1 day ago) - Make desktop widgets by the mystic arts of Spell  !!
+- [tanu1337/qwen-api](https://github.com/tanu1337/qwen-api) (6 days ago) - Qwen API RCE.
+- [facebookexperimental/rust-shed](https://github.com/facebookexperimental/rust-shed) (6 days ago) - Repository containing Rust crates common between other Facebook open source projects (like Mononoke or Eden).
 - [nik-rev/displaystr](https://github.com/nik-rev/displaystr) (1 week ago) - Ergonomically implement the `Display` trait
 - [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (1 week ago) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 
