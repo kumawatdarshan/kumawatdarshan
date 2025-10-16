@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (2 weeks ago)
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (3 weeks ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (1 month ago)
 - [kumawatdarshan/geo-trivia](https://github.com/kumawatdarshan/geo-trivia) - AI based GeoPolitical Trivia quiz.  (4 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [VimYoung/Spell](https://github.com/VimYoung/Spell) (1 day ago) - Make desktop widgets by the mystic arts of Spell  !!
-- [tanu1337/qwen-api](https://github.com/tanu1337/qwen-api) (6 days ago) - Qwen API RCE.
-- [facebookexperimental/rust-shed](https://github.com/facebookexperimental/rust-shed) (6 days ago) - Repository containing Rust crates common between other Facebook open source projects (like Mononoke or Eden).
+- [VimYoung/Spell](https://github.com/VimYoung/Spell) (2 days ago) - Make desktop widgets by the mystic arts of Spell  !!
+- [tanu1337/qwen-api](https://github.com/tanu1337/qwen-api) (1 week ago) - Qwen API RCE.
+- [facebookexperimental/rust-shed](https://github.com/facebookexperimental/rust-shed) (1 week ago) - Repository containing Rust crates common between other Facebook open source projects (like Mononoke or Eden).
 - [nik-rev/displaystr](https://github.com/nik-rev/displaystr) (1 week ago) - Ergonomically implement the `Display` trait
-- [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (1 week ago) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
+- [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (2 weeks ago) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
