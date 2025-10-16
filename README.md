@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [nik-rev/ignorable](https://github.com/nik-rev/ignorable) (today) - Standard library derives that can ignore individual fields
+- [pascalkuthe/filesentry](https://github.com/pascalkuthe/filesentry) (today) - A reliable and performant cached directory tree in rust that can notify changes without dropping events
+- [vincent-uden/miro](https://github.com/vincent-uden/miro) (today) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
 - [VimYoung/Spell](https://github.com/VimYoung/Spell) (2 days ago) - Make desktop widgets by the mystic arts of Spell  !!
 - [tanu1337/qwen-api](https://github.com/tanu1337/qwen-api) (1 week ago) - Qwen API RCE.
-- [facebookexperimental/rust-shed](https://github.com/facebookexperimental/rust-shed) (1 week ago) - Repository containing Rust crates common between other Facebook open source projects (like Mononoke or Eden).
-- [nik-rev/displaystr](https://github.com/nik-rev/displaystr) (1 week ago) - Ergonomically implement the `Display` trait
-- [lokus-ai/lokus](https://github.com/lokus-ai/lokus) (2 weeks ago) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
