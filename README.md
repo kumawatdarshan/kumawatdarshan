@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [nik-rev/ignorable](https://github.com/nik-rev/ignorable) (today) - Standard library derives that can ignore individual fields
-- [pascalkuthe/filesentry](https://github.com/pascalkuthe/filesentry) (today) - A reliable and performant cached directory tree in rust that can notify changes without dropping events
-- [vincent-uden/miro](https://github.com/vincent-uden/miro) (today) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
-- [VimYoung/Spell](https://github.com/VimYoung/Spell) (2 days ago) - Make desktop widgets by the mystic arts of Spell  !!
+- [nik-rev/ignorable](https://github.com/nik-rev/ignorable) (1 day ago) - Standard library derives that can ignore individual fields
+- [pascalkuthe/filesentry](https://github.com/pascalkuthe/filesentry) (1 day ago) - A reliable and performant cached directory tree in rust that can notify changes without dropping events
+- [vincent-uden/miro](https://github.com/vincent-uden/miro) (1 day ago) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
+- [VimYoung/Spell](https://github.com/VimYoung/Spell) (3 days ago) - Make desktop widgets by the mystic arts of Spell  !!
 - [tanu1337/qwen-api](https://github.com/tanu1337/qwen-api) (1 week ago) - Qwen API RCE.
 
 <div>
