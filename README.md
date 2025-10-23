@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (3 weeks ago)
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (4 weeks ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (1 month ago)
 - [kumawatdarshan/geo-trivia](https://github.com/kumawatdarshan/geo-trivia) - AI based GeoPolitical Trivia quiz.  (4 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [sst/opencode](https://github.com/sst/opencode) (2 days ago) - The AI coding agent built for the terminal.
-- [way-edges/way-edges](https://github.com/way-edges/way-edges) (2 days ago) - Light weight wayland client focusing on widgets hidden in your screen edge.
-- [nik-rev/ignorable](https://github.com/nik-rev/ignorable) (6 days ago) - Standard library derives that can ignore individual fields
-- [pascalkuthe/filesentry](https://github.com/pascalkuthe/filesentry) (6 days ago) - A reliable and performant cached directory tree in rust that can notify changes without dropping events
-- [vincent-uden/miro](https://github.com/vincent-uden/miro) (6 days ago) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
+- [sst/opencode](https://github.com/sst/opencode) (3 days ago) - The AI coding agent built for the terminal.
+- [way-edges/way-edges](https://github.com/way-edges/way-edges) (3 days ago) - Light weight wayland client focusing on widgets hidden in your screen edge.
+- [nik-rev/ignorable](https://github.com/nik-rev/ignorable) (1 week ago) - Standard library derives that can ignore individual fields
+- [pascalkuthe/filesentry](https://github.com/pascalkuthe/filesentry) (1 week ago) - A reliable and performant cached directory tree in rust that can notify changes without dropping events
+- [vincent-uden/miro](https://github.com/vincent-uden/miro) (1 week ago) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
