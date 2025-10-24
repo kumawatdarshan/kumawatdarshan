@@ -27,8 +27,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [sst/opencode](https://github.com/sst/opencode) (3 days ago) - The AI coding agent built for the terminal.
-- [way-edges/way-edges](https://github.com/way-edges/way-edges) (3 days ago) - Light weight wayland client focusing on widgets hidden in your screen edge.
+- [sst/opencode](https://github.com/sst/opencode) (4 days ago) - The AI coding agent built for the terminal.
+- [way-edges/way-edges](https://github.com/way-edges/way-edges) (4 days ago) - Light weight wayland client focusing on widgets hidden in your screen edge.
 - [nik-rev/ignorable](https://github.com/nik-rev/ignorable) (1 week ago) - Standard library derives that can ignore individual fields
 - [pascalkuthe/filesentry](https://github.com/pascalkuthe/filesentry) (1 week ago) - A reliable and performant cached directory tree in rust that can notify changes without dropping events
 - [vincent-uden/miro](https://github.com/vincent-uden/miro) (1 week ago) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
