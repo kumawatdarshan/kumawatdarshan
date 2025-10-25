@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [sst/opencode](https://github.com/sst/opencode) (5 days ago) - The AI coding agent built for the terminal.
-- [way-edges/way-edges](https://github.com/way-edges/way-edges) (5 days ago) - Light weight wayland client focusing on widgets hidden in your screen edge.
-- [nik-rev/ignorable](https://github.com/nik-rev/ignorable) (1 week ago) - Standard library derives that can ignore individual fields
-- [pascalkuthe/filesentry](https://github.com/pascalkuthe/filesentry) (1 week ago) - A reliable and performant cached directory tree in rust that can notify changes without dropping events
-- [vincent-uden/miro](https://github.com/vincent-uden/miro) (1 week ago) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
+- [MathiasPius/crates-lsp](https://github.com/MathiasPius/crates-lsp) (today) - Language Server implementation for Cargo.toml
+- [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) (today) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
+- [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) (today) - A cargo subcommand for displaying when Rust dependencies are out of date
+- [majidmanzarpour/vibe-coding-starter-pack-3d-multiplayer](https://github.com/majidmanzarpour/vibe-coding-starter-pack-3d-multiplayer) (today) - A lightweight 3D web-based multiplayer starter kit using Three.js, React, and SpacetimeDB. Build interactive multiplayer experiences with real-time synchronization, character movement, and customizable game mechanics.
+- [majidmanzarpour/vibe-styler](https://github.com/majidmanzarpour/vibe-styler) (today) - Vibe Styler is a Chrome Extension that can restyle any website with a simple prompt, powered by Google Gemini 2.5
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
