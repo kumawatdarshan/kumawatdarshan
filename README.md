@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [LukeMathWalker/bunyan](https://github.com/LukeMathWalker/bunyan) (today) - A CLI to pretty print logs in bunyan format. A Rust port of the original JavaScript bunyan CLI.
 - [MathiasPius/crates-lsp](https://github.com/MathiasPius/crates-lsp) (1 week ago) - Language Server implementation for Cargo.toml
 - [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) (1 week ago) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
 - [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) (1 week ago) - A cargo subcommand for displaying when Rust dependencies are out of date
 - [majidmanzarpour/vibe-coding-starter-pack-3d-multiplayer](https://github.com/majidmanzarpour/vibe-coding-starter-pack-3d-multiplayer) (1 week ago) - A lightweight 3D web-based multiplayer starter kit using Three.js, React, and SpacetimeDB. Build interactive multiplayer experiences with real-time synchronization, character movement, and customizable game mechanics.
-- [majidmanzarpour/vibe-styler](https://github.com/majidmanzarpour/vibe-styler) (1 week ago) - Vibe Styler is a Chrome Extension that can restyle any website with a simple prompt, powered by Google Gemini 2.5
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
