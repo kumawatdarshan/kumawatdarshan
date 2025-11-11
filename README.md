@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [serde-rs/serde](https://github.com/serde-rs/serde) (today) - Serialization framework for Rust
+- [toon-format/toon](https://github.com/toon-format/toon) (today) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) (today) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (1 day ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [Peternator7/strum](https://github.com/Peternator7/strum) (1 day ago) - A small rust library for adding custom derives to enums
-- [LukeMathWalker/bunyan](https://github.com/LukeMathWalker/bunyan) (1 week ago) - A CLI to pretty print logs in bunyan format. A Rust port of the original JavaScript bunyan CLI.
-- [MathiasPius/crates-lsp](https://github.com/MathiasPius/crates-lsp) (2 weeks ago) - Language Server implementation for Cargo.toml
-- [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) (2 weeks ago) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
