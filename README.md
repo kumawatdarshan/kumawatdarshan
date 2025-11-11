@@ -12,7 +12,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 
 - [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (today)
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 days ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (3 days ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 month ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (2 months ago)
 - [kumawatdarshan/geo-trivia](https://github.com/kumawatdarshan/geo-trivia) - AI based GeoPolitical Trivia quiz.  (5 months ago)
@@ -27,8 +27,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (today) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
-- [Peternator7/strum](https://github.com/Peternator7/strum) (today) - A small rust library for adding custom derives to enums
+- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (1 day ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+- [Peternator7/strum](https://github.com/Peternator7/strum) (1 day ago) - A small rust library for adding custom derives to enums
 - [LukeMathWalker/bunyan](https://github.com/LukeMathWalker/bunyan) (1 week ago) - A CLI to pretty print logs in bunyan format. A Rust port of the original JavaScript bunyan CLI.
 - [MathiasPius/crates-lsp](https://github.com/MathiasPius/crates-lsp) (2 weeks ago) - Language Server implementation for Cargo.toml
 - [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) (2 weeks ago) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
