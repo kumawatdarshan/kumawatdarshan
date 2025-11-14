@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) (today) - The Magic Mask for Android
 - [serde-rs/serde](https://github.com/serde-rs/serde) (3 days ago) - Serialization framework for Rust
 - [toon-format/toon](https://github.com/toon-format/toon) (3 days ago) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) (3 days ago) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (4 days ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
-- [Peternator7/strum](https://github.com/Peternator7/strum) (4 days ago) - A small rust library for adding custom derives to enums
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
