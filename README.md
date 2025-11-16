@@ -11,8 +11,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (today)
-- [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (4 days ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 day ago)
+- [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (5 days ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 month ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (2 months ago)
 - [kumawatdarshan/geo-trivia](https://github.com/kumawatdarshan/geo-trivia) - AI based GeoPolitical Trivia quiz.  (5 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) (1 day ago) - The Magic Mask for Android
-- [serde-rs/serde](https://github.com/serde-rs/serde) (4 days ago) - Serialization framework for Rust
-- [toon-format/toon](https://github.com/toon-format/toon) (4 days ago) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
-- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) (4 days ago) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (5 days ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) (2 days ago) - The Magic Mask for Android
+- [serde-rs/serde](https://github.com/serde-rs/serde) (5 days ago) - Serialization framework for Rust
+- [toon-format/toon](https://github.com/toon-format/toon) (5 days ago) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) (5 days ago) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (6 days ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
