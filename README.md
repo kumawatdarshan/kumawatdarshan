@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) (today) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10] 
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) (4 days ago) - The Magic Mask for Android
 - [serde-rs/serde](https://github.com/serde-rs/serde) (1 week ago) - Serialization framework for Rust
 - [toon-format/toon](https://github.com/toon-format/toon) (1 week ago) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) (1 week ago) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (1 week ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
