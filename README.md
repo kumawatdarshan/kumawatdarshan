@@ -12,7 +12,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 
 - [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (today)
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (today)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 day ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 month ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (2 months ago)
 - [kumawatdarshan/geo-trivia](https://github.com/kumawatdarshan/geo-trivia) - AI based GeoPolitical Trivia quiz.  (5 months ago)
@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) (3 days ago) - The Magic Mask for Android
-- [serde-rs/serde](https://github.com/serde-rs/serde) (6 days ago) - Serialization framework for Rust
-- [toon-format/toon](https://github.com/toon-format/toon) (6 days ago) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
-- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) (6 days ago) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) (4 days ago) - The Magic Mask for Android
+- [serde-rs/serde](https://github.com/serde-rs/serde) (1 week ago) - Serialization framework for Rust
+- [toon-format/toon](https://github.com/toon-format/toon) (1 week ago) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) (1 week ago) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (1 week ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 
 <div>
