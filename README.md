@@ -11,8 +11,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (1 day ago)
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 days ago)
+- [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (2 days ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (3 days ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 month ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (2 months ago)
 - [kumawatdarshan/geo-trivia](https://github.com/kumawatdarshan/geo-trivia) - AI based GeoPolitical Trivia quiz.  (5 months ago)
@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [knoxchat/open-webui-rust](https://github.com/knoxchat/open-webui-rust) (today) - Open WebUI Backend in Rust: Speed, Reliability, Scalability.
-- [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui) (today) - Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requiring no dependency services, no Docker, with both a server version and a Tauri-based desktop client. (formerly Open WebUI Lite)
-- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) (1 day ago) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10] 
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) (5 days ago) - The Magic Mask for Android
+- [knoxchat/open-webui-rust](https://github.com/knoxchat/open-webui-rust) (1 day ago) - Open WebUI Backend in Rust: Speed, Reliability, Scalability.
+- [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui) (1 day ago) - Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requiring no dependency services, no Docker, with both a server version and a Tauri-based desktop client. (formerly Open WebUI Lite)
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) (2 days ago) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10] 
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) (6 days ago) - The Magic Mask for Android
 - [serde-rs/serde](https://github.com/serde-rs/serde) (1 week ago) - Serialization framework for Rust
 
 <div>
