@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) (today) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (6 days ago) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui) (1 week ago) - Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requiring no dependency services, no Docker, with both a server version and a Tauri-based desktop client. (formerly Open WebUI Lite)
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) (1 week ago) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10] 
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) (1 week ago) - The Magic Mask for Android
-- [serde-rs/serde](https://github.com/serde-rs/serde) (2 weeks ago) - Serialization framework for Rust
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
