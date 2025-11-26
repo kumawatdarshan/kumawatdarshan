@@ -11,9 +11,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (today)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (6 days ago)
 - [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (1 week ago)
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (2 months ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (2 months ago)
 - [kumawatdarshan/geo-trivia](https://github.com/kumawatdarshan/geo-trivia) - AI based GeoPolitical Trivia quiz.  (6 months ago)
 
