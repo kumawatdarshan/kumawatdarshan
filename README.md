@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) (today) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) (today) - Get Spotify tracks in true FLAC from Tidal, Deezer, Qobuz &amp; Amazon Music — no account required.
 - [ozpv/axum_thiserror_tracing](https://github.com/ozpv/axum_thiserror_tracing) (1 day ago) - Helpful IntoResponse derive macro for the thiserror crate
 - [Arthurdw/rovo](https://github.com/Arthurdw/rovo) (3 days ago) - Axum open API docs made simple
 - [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) (4 days ago) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (1 week ago) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui) (1 week ago) - Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requiring no dependency services, no Docker, with both a server version and a Tauri-based desktop client. (formerly Open WebUI Lite)
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
