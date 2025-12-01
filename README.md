@@ -11,8 +11,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (today)
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (4 days ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 day ago)
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (5 days ago)
 - [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (1 week ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (2 months ago)
 - [kumawatdarshan/geo-trivia](https://github.com/kumawatdarshan/geo-trivia) - AI based GeoPolitical Trivia quiz.  (6 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [winapps-org/winapps](https://github.com/winapps-org/winapps) (today) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) (today) - Get Spotify tracks in true FLAC from Tidal, Deezer, Qobuz &amp; Amazon Music — no account required.
-- [ozpv/axum_thiserror_tracing](https://github.com/ozpv/axum_thiserror_tracing) (1 day ago) - Helpful IntoResponse derive macro for the thiserror crate
-- [Arthurdw/rovo](https://github.com/Arthurdw/rovo) (3 days ago) - Axum open API docs made simple
-- [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) (4 days ago) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable.
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) (1 day ago) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) (1 day ago) - Get Spotify tracks in true FLAC from Tidal, Deezer, Qobuz &amp; Amazon Music — no account required.
+- [ozpv/axum_thiserror_tracing](https://github.com/ozpv/axum_thiserror_tracing) (2 days ago) - Helpful IntoResponse derive macro for the thiserror crate
+- [Arthurdw/rovo](https://github.com/Arthurdw/rovo) (4 days ago) - Axum open API docs made simple
+- [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) (5 days ago) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
