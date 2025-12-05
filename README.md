@@ -11,8 +11,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (1 day ago)
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (4 days ago)
+- [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (2 days ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (5 days ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 week ago)
 - [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (2 weeks ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (3 months ago)
@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [SUPERCILEX/clipboard-history](https://github.com/SUPERCILEX/clipboard-history) (3 days ago) - Ringboard—the clipboard manager for Linux
-- [winapps-org/winapps](https://github.com/winapps-org/winapps) (4 days ago) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) (4 days ago) - Get Spotify tracks in true FLAC from Tidal, Deezer, Qobuz &amp; Amazon Music — no account required.
-- [ozpv/axum_thiserror_tracing](https://github.com/ozpv/axum_thiserror_tracing) (5 days ago) - Helpful IntoResponse derive macro for the thiserror crate
+- [SUPERCILEX/clipboard-history](https://github.com/SUPERCILEX/clipboard-history) (4 days ago) - Ringboard—the clipboard manager for Linux
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) (5 days ago) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) (5 days ago) - Get Spotify tracks in true FLAC from Tidal, Deezer, Qobuz &amp; Amazon Music — no account required.
+- [ozpv/axum_thiserror_tracing](https://github.com/ozpv/axum_thiserror_tracing) (6 days ago) - Helpful IntoResponse derive macro for the thiserror crate
 - [Arthurdw/rovo](https://github.com/Arthurdw/rovo) (1 week ago) - Axum open API docs made simple
 
 <div>
