@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (1 day ago)
+- [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (2 days ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 week ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 week ago)
 - [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (2 weeks ago)
@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) (1 day ago) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
-- [facet-rs/facet](https://github.com/facet-rs/facet) (2 days ago) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
-- [max-baz/wluma](https://github.com/max-baz/wluma) (2 days ago) - Automatic brightness adjustment based on screen contents and ALS
-- [SUPERCILEX/clipboard-history](https://github.com/SUPERCILEX/clipboard-history) (6 days ago) - Ringboard—the clipboard manager for Linux
+- [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) (2 days ago) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
+- [facet-rs/facet](https://github.com/facet-rs/facet) (3 days ago) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
+- [max-baz/wluma](https://github.com/max-baz/wluma) (3 days ago) - Automatic brightness adjustment based on screen contents and ALS
+- [SUPERCILEX/clipboard-history](https://github.com/SUPERCILEX/clipboard-history) (1 week ago) - Ringboard—the clipboard manager for Linux
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) (1 week ago) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 
 <div>
