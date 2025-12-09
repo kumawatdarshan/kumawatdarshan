@@ -11,10 +11,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (2 days ago)
+- [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (3 days ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 week ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 week ago)
-- [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (2 weeks ago)
+- [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (3 weeks ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (3 months ago)
 
 #### 🌱 My latest projects
@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) (today) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS and Lyrion. Using powerful tools like Librosa and ONNX, it performs sonic analysis on your audio files locally, allowing you to curate the perfect playlist for any mood or occasion without relying on external APIs.
-- [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) (2 days ago) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
-- [facet-rs/facet](https://github.com/facet-rs/facet) (3 days ago) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
-- [max-baz/wluma](https://github.com/max-baz/wluma) (3 days ago) - Automatic brightness adjustment based on screen contents and ALS
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) (1 day ago) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS and Lyrion. Using powerful tools like Librosa and ONNX, it performs sonic analysis on your audio files locally, allowing you to curate the perfect playlist for any mood or occasion without relying on external APIs.
+- [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) (3 days ago) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
+- [facet-rs/facet](https://github.com/facet-rs/facet) (4 days ago) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
+- [max-baz/wluma](https://github.com/max-baz/wluma) (4 days ago) - Automatic brightness adjustment based on screen contents and ALS
 - [SUPERCILEX/clipboard-history](https://github.com/SUPERCILEX/clipboard-history) (1 week ago) - Ringboard—the clipboard manager for Linux
 
 <div>
