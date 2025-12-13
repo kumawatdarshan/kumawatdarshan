@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) (today) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [saltnpepper97/stasis](https://github.com/saltnpepper97/stasis) (1 day ago) - A lightweight, feature rich Wayland idle manager written in Rust
 - [argosnothing/niri-scratchpad-rs](https://github.com/argosnothing/niri-scratchpad-rs) (1 day ago) - Dynamic Scratchpad Management for Niri
 - [probeldev/niri-screen-time](https://github.com/probeldev/niri-screen-time) (1 day ago) - Niri Screen Time
 - [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) (1 day ago) - SQL Native Memory Layer for LLMs, AI Agents &amp; Multi-Agent Systems
-- [NeptuneHub/AudioMuse-AI-MusicServer](https://github.com/NeptuneHub/AudioMuse-AI-MusicServer) (3 days ago) - Prototype music server built on the Open Subsonic API, designed to showcase AudioMuse-AI’s advanced sonic analysis capabilities.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
