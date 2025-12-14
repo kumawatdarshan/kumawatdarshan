@@ -12,7 +12,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (1 week ago)
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 week ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 weeks ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (2 weeks ago)
 - [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (3 weeks ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (3 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) (today) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
-- [saltnpepper97/stasis](https://github.com/saltnpepper97/stasis) (1 day ago) - A lightweight, feature rich Wayland idle manager written in Rust
-- [argosnothing/niri-scratchpad-rs](https://github.com/argosnothing/niri-scratchpad-rs) (1 day ago) - Dynamic Scratchpad Management for Niri
-- [probeldev/niri-screen-time](https://github.com/probeldev/niri-screen-time) (1 day ago) - Niri Screen Time
-- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) (1 day ago) - SQL Native Memory Layer for LLMs, AI Agents &amp; Multi-Agent Systems
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) (1 day ago) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
+- [saltnpepper97/stasis](https://github.com/saltnpepper97/stasis) (2 days ago) - A lightweight, feature rich Wayland idle manager written in Rust
+- [argosnothing/niri-scratchpad-rs](https://github.com/argosnothing/niri-scratchpad-rs) (2 days ago) - Dynamic Scratchpad Management for Niri
+- [probeldev/niri-screen-time](https://github.com/probeldev/niri-screen-time) (2 days ago) - Niri Screen Time
+- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) (2 days ago) - SQL Native Memory Layer for LLMs, AI Agents &amp; Multi-Agent Systems
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
