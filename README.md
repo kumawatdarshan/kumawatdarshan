@@ -14,7 +14,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (1 week ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 weeks ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (2 weeks ago)
-- [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (3 weeks ago)
+- [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (4 weeks ago)
 - [ecnivs/black-hole](https://github.com/ecnivs/black-hole) - Black Hole Simulation (3 months ago)
 
 #### 🌱 My latest projects
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [nik-rev/awesome-tiny-crates](https://github.com/nik-rev/awesome-tiny-crates) (1 day ago) - A bunch of small crates that make writing Rust more fun
-- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) (1 day ago) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares &amp; Ransomwares, focused on Rust 🦀
-- [Cactusinhand/filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs) (1 day ago) - 🦀 A high-performance Rust implementation of git-filter-repo for efficiently rewriting Git repository history. Remove sensitive data, shrink repos, and restructure projects with streaming pipeline architecture.
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) (1 day ago) - A program for managing systemd services through a TUI (Terminal User Interfaces).
-- [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) (1 day ago) - GPUI – Community Edition
+- [nik-rev/awesome-tiny-crates](https://github.com/nik-rev/awesome-tiny-crates) (2 days ago) - A bunch of small crates that make writing Rust more fun
+- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) (2 days ago) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares &amp; Ransomwares, focused on Rust 🦀
+- [Cactusinhand/filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs) (2 days ago) - 🦀 A high-performance Rust implementation of git-filter-repo for efficiently rewriting Git repository history. Remove sensitive data, shrink repos, and restructure projects with streaming pipeline architecture.
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) (2 days ago) - A program for managing systemd services through a TUI (Terminal User Interfaces).
+- [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) (2 days ago) - GPUI – Community Edition
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
