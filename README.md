@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [grappas/wl-clipboard.yazi](https://github.com/grappas/wl-clipboard.yazi) (1 day ago) - Wayland implementation of a simple system clipboard for yazi file manager
-- [nik-rev/awesome-tiny-crates](https://github.com/nik-rev/awesome-tiny-crates) (4 days ago) - A bunch of small crates that make writing Rust more fun
-- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) (4 days ago) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares &amp; Ransomwares, focused on Rust 🦀
-- [Cactusinhand/filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs) (4 days ago) - 🦀 A high-performance Rust implementation of git-filter-repo for efficiently rewriting Git repository history. Remove sensitive data, shrink repos, and restructure projects with streaming pipeline architecture.
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) (4 days ago) - A program for managing systemd services through a TUI (Terminal User Interfaces).
+- [grappas/wl-clipboard.yazi](https://github.com/grappas/wl-clipboard.yazi) (2 days ago) - Wayland implementation of a simple system clipboard for yazi file manager
+- [nik-rev/awesome-tiny-crates](https://github.com/nik-rev/awesome-tiny-crates) (5 days ago) - A bunch of small crates that make writing Rust more fun
+- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) (5 days ago) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares &amp; Ransomwares, focused on Rust 🦀
+- [Cactusinhand/filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs) (5 days ago) - 🦀 A high-performance Rust implementation of git-filter-repo for efficiently rewriting Git repository history. Remove sensitive data, shrink repos, and restructure projects with streaming pipeline architecture.
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) (5 days ago) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
