@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) (today) - Desktop shell for wayland compositors built with Quickshell &amp; GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
+- [jfchenier/dms-display-mirror](https://github.com/jfchenier/dms-display-mirror) (today) - DMS plugin to mirror niri displays using wl-mirror from the control center and dank bar widgets
+- [AvengeMedia/dgop](https://github.com/AvengeMedia/dgop) (today) - API &amp; CLI for System &amp; Process  Monitoring
 - [curl/curl](https://github.com/curl/curl) (today) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [grappas/wl-clipboard.yazi](https://github.com/grappas/wl-clipboard.yazi) (5 days ago) - Wayland implementation of a simple system clipboard for yazi file manager
-- [nik-rev/awesome-tiny-crates](https://github.com/nik-rev/awesome-tiny-crates) (1 week ago) - A bunch of small crates that make writing Rust more fun
-- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) (1 week ago) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares &amp; Ransomwares, focused on Rust 🦀
-- [Cactusinhand/filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs) (1 week ago) - 🦀 A high-performance Rust implementation of git-filter-repo for efficiently rewriting Git repository history. Remove sensitive data, shrink repos, and restructure projects with streaming pipeline architecture.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
