@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) (today) - A Simplified, Focused and Open NAS OS_
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) (today) - Rust bindings for the Python interpreter
 - [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) (today) - PageLM is a community driven version of NotebookLM &amp; a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts.
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (today) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [hedgetechllc/libopusenc-rs](https://github.com/hedgetechllc/libopusenc-rs) (1 day ago) - Safe Rust library to interact with the reference Opus Encoder (libopusenc)
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) (2 days ago) - Desktop shell for wayland compositors built with Quickshell &amp; GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
