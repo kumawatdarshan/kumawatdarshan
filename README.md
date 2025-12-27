@@ -11,9 +11,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (2 days ago)
+- [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (3 days ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 week ago)
-- [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (2 weeks ago)
+- [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (3 weeks ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 month ago)
 - [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (1 month ago)
 
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) (2 days ago) - A Simplified, Focused and Open NAS OS_
-- [PyO3/pyo3](https://github.com/PyO3/pyo3) (2 days ago) - Rust bindings for the Python interpreter
-- [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) (2 days ago) - PageLM is a community driven version of NotebookLM &amp; a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts.
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (2 days ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
-- [hedgetechllc/libopusenc-rs](https://github.com/hedgetechllc/libopusenc-rs) (3 days ago) - Safe Rust library to interact with the reference Opus Encoder (libopusenc)
+- [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) (3 days ago) - A Simplified, Focused and Open NAS OS_
+- [PyO3/pyo3](https://github.com/PyO3/pyo3) (3 days ago) - Rust bindings for the Python interpreter
+- [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) (3 days ago) - PageLM is a community driven version of NotebookLM &amp; a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts.
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (3 days ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+- [hedgetechllc/libopusenc-rs](https://github.com/hedgetechllc/libopusenc-rs) (4 days ago) - Safe Rust library to interact with the reference Opus Encoder (libopusenc)
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
