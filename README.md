@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) (today) - Utility for mass-downloading LRC synced lyrics for your offline music library.
+- [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) (today) - LRCLIB server written in Rust with Axum and SQLite3 database
 - [Wilooper/Lyrica](https://github.com/Wilooper/Lyrica) (today) - A free Open source tool to fetch lyrics of a song and print it as json data to easily implement in your app or site made in python
 - [rkosegi/jdownloader-cli](https://github.com/rkosegi/jdownloader-cli) (today) - JDownloader CLI tool written in Go
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) (today) - A markdown terminal slideshow tool
-- [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) (4 days ago) - A Simplified, Focused and Open NAS OS_
-- [PyO3/pyo3](https://github.com/PyO3/pyo3) (4 days ago) - Rust bindings for the Python interpreter
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
