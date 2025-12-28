@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [holmesisback/Dab-Android-Beta-V2](https://github.com/holmesisback/Dab-Android-Beta-V2) (today) - A Flutter Application used for music streaming using Dab Music Api
 - [bugswriter/dontforget](https://github.com/bugswriter/dontforget) (today) - your edentic memory
 - [mdsaban/universal-app-opener](https://github.com/mdsaban/universal-app-opener) (today) - A zero-dependency JavaScript library that converts standard HTTP URLs (YouTube, LinkedIn) into Native Mobile Deep Links (Custom Schemes &amp; Android Intents).
 - [pascalkuthe/reaktiv](https://github.com/pascalkuthe/reaktiv) (today) - A standalone, flexible fine-grained reactivity library
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) (today) - Utility for mass-downloading LRC synced lyrics for your offline music library.
-- [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) (today) - LRCLIB server written in Rust with Axum and SQLite3 database
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
