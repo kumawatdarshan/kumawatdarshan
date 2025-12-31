@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [0PandaDEV/downcida](https://github.com/0PandaDEV/downcida) (today) - 
+- [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) (today) - Effortlessly convert Spotify links to your preferred streaming service
 - [nushell/reedline](https://github.com/nushell/reedline) (today) - A feature-rich line editor - powering Nushell
 - [arianrhodsandlot/nostalgist](https://github.com/arianrhodsandlot/nostalgist) (1 day ago) - A JavaScript library used for running emulators of retro consoles inside browsers.
 - [Emupedia/emupedia.github.io](https://github.com/Emupedia/emupedia.github.io) (1 day ago) - The purpose of Emupedia is to serve as a nonprofit meta-resource, hub and community for those interested mainly in video game preservation which aims to digitally collect, archive and preserve games and software to make them available online accessible by a user-friendly UI that simulates several retro operating systems for educational purposes.
-- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) (2 days ago) - A High-Quality Real Time Upscaler for Anime Video
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) (2 days ago) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
