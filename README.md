@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [FyukMdaa/Floorp-flake](https://github.com/FyukMdaa/Floorp-flake) (today) - A Nix flake for installing the latest Floorp releases.
-- [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) (1 day ago) - Download &#39;TIDAL&#39; Music On Windows/Linux/MacOs (PYTHON/C#)
-- [0PandaDEV/downcida](https://github.com/0PandaDEV/downcida) (1 day ago) - 
-- [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) (1 day ago) - Effortlessly convert Spotify links to your preferred streaming service
-- [nushell/reedline](https://github.com/nushell/reedline) (1 day ago) - A feature-rich line editor - powering Nushell
+- [FyukMdaa/Floorp-flake](https://github.com/FyukMdaa/Floorp-flake) (1 day ago) - A Nix flake for installing the latest Floorp releases.
+- [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) (2 days ago) - Download &#39;TIDAL&#39; Music On Windows/Linux/MacOs (PYTHON/C#)
+- [0PandaDEV/downcida](https://github.com/0PandaDEV/downcida) (2 days ago) - 
+- [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) (2 days ago) - Effortlessly convert Spotify links to your preferred streaming service
+- [nushell/reedline](https://github.com/nushell/reedline) (2 days ago) - A feature-rich line editor - powering Nushell
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
