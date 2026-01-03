@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) (today) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today) - A powerful little TUI framework 🏗
+- [nushell/nushell](https://github.com/nushell/nushell) (today) - A new type of shell
 - [i-am-logger/vogix16](https://github.com/i-am-logger/vogix16) (today) - Functional colors for minimalist minds.
 - [FyukMdaa/Floorp-flake](https://github.com/FyukMdaa/Floorp-flake) (2 days ago) - A Nix flake for installing the latest Floorp releases.
-- [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) (3 days ago) - Download &#39;TIDAL&#39; Music On Windows/Linux/MacOs (PYTHON/C#)
-- [0PandaDEV/downcida](https://github.com/0PandaDEV/downcida) (3 days ago) - 
-- [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) (3 days ago) - Effortlessly convert Spotify links to your preferred streaming service
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
