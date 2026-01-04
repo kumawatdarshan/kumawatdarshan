@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) (today) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) (1 day ago) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago) - A powerful little TUI framework 🏗
 - [nushell/nushell](https://github.com/nushell/nushell) (1 day ago) - A new type of shell
 - [i-am-logger/vogix16](https://github.com/i-am-logger/vogix16) (1 day ago) - Functional colors for minimalist minds.
-- [FyukMdaa/Floorp-flake](https://github.com/FyukMdaa/Floorp-flake) (3 days ago) - A Nix flake for installing the latest Floorp releases.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
