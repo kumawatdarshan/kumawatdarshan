@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (5 days ago)
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (today)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (2 weeks ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (3 weeks ago)
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (1 month ago)
