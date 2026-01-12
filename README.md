@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [srid/leptos-fullstack](https://github.com/srid/leptos-fullstack) (today) - A Nix template for full-stack web apps in Rust using Leptos
+- [zakstucke/leptos-fetch](https://github.com/zakstucke/leptos-fetch) (today) - Async query manager for Leptos
+- [nixonyh/lumina](https://github.com/nixonyh/lumina) (today) - A top down, fast paced, objective based, PvP game, written in Rust, using the Bevy game engine.
+- [voxell-tech/velyst](https://github.com/voxell-tech/velyst) (today) - Interactive Typst content creator using Vello and Bevy.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (today) - The Free Software Media System - Server Backend &amp; API
-- [HeitorAugustoLN/showkeys.hx](https://github.com/HeitorAugustoLN/showkeys.hx) (today) - A Helix plugin to display pressed keys on screen
-- [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) (2 days ago) - Terminal UI to list, browse and run APIs defined with openapi spec.
-- [jlucaso1/whatsapp-rust](https://github.com/jlucaso1/whatsapp-rust) (3 days ago) - Whatsapp client written purely in Rust based on whatsmeow and baileys
-- [chromium/chromium](https://github.com/chromium/chromium) (3 days ago) - The official GitHub mirror of the Chromium source
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
