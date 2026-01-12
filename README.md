@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (today) - The Free Software Media System - Server Backend &amp; API
 - [HeitorAugustoLN/showkeys.hx](https://github.com/HeitorAugustoLN/showkeys.hx) (today) - A Helix plugin to display pressed keys on screen
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) (2 days ago) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [jlucaso1/whatsapp-rust](https://github.com/jlucaso1/whatsapp-rust) (3 days ago) - Whatsapp client written purely in Rust based on whatsmeow and baileys
 - [chromium/chromium](https://github.com/chromium/chromium) (3 days ago) - The official GitHub mirror of the Chromium source
-- [anuvyklack/helheim-emacs](https://github.com/anuvyklack/helheim-emacs) (4 days ago) - 
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
