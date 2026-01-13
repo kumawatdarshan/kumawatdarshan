@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [oxidecomputer/typify](https://github.com/oxidecomputer/typify) (today) - compiler from JSON Schema into idiomatic Rust types
 - [srid/leptos-fullstack](https://github.com/srid/leptos-fullstack) (1 day ago) - A Nix template for full-stack web apps in Rust using Leptos
 - [zakstucke/leptos-fetch](https://github.com/zakstucke/leptos-fetch) (1 day ago) - Async query manager for Leptos
 - [nixonyh/lumina](https://github.com/nixonyh/lumina) (1 day ago) - A top down, fast paced, objective based, PvP game, written in Rust, using the Bevy game engine.
 - [voxell-tech/velyst](https://github.com/voxell-tech/velyst) (1 day ago) - Interactive Typst content creator using Vello and Bevy.
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (1 day ago) - The Free Software Media System - Server Backend &amp; API
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
