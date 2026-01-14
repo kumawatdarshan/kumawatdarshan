@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [totoshko88/RustConn](https://github.com/totoshko88/RustConn) (today) - Modern connection manager for Linux with GTK4/Wayland-native interface.
 - [j178/prek](https://github.com/j178/prek) (today) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [hyperium/tonic](https://github.com/hyperium/tonic) (today) - A native gRPC client &amp; server implementation with async/await support.
 - [oxidecomputer/typify](https://github.com/oxidecomputer/typify) (1 day ago) - compiler from JSON Schema into idiomatic Rust types
 - [srid/leptos-fullstack](https://github.com/srid/leptos-fullstack) (2 days ago) - A Nix template for full-stack web apps in Rust using Leptos
-- [zakstucke/leptos-fetch](https://github.com/zakstucke/leptos-fetch) (2 days ago) - Async query manager for Leptos
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
