@@ -11,9 +11,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (4 days ago)
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (5 days ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (3 weeks ago)
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (4 weeks ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (1 month ago)
 - [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr (1 month ago)
 
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [Omni-guides/Jackify](https://github.com/Omni-guides/Jackify) (today) - Jackify - Simplifying Wabbajack modlist installation and configuration on Linux
-- [totoshko88/RustConn](https://github.com/totoshko88/RustConn) (today) - Modern connection manager for Linux with GTK4/Wayland-native interface.
-- [j178/prek](https://github.com/j178/prek) (today) - ⚡ Better `pre-commit`, re-engineered in Rust
-- [hyperium/tonic](https://github.com/hyperium/tonic) (today) - A native gRPC client &amp; server implementation with async/await support.
-- [oxidecomputer/typify](https://github.com/oxidecomputer/typify) (1 day ago) - compiler from JSON Schema into idiomatic Rust types
+- [Omni-guides/Jackify](https://github.com/Omni-guides/Jackify) (1 day ago) - Jackify - Simplifying Wabbajack modlist installation and configuration on Linux
+- [totoshko88/RustConn](https://github.com/totoshko88/RustConn) (1 day ago) - Modern connection manager for Linux with GTK4/Wayland-native interface.
+- [j178/prek](https://github.com/j178/prek) (1 day ago) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [hyperium/tonic](https://github.com/hyperium/tonic) (1 day ago) - A native gRPC client &amp; server implementation with async/await support.
+- [oxidecomputer/typify](https://github.com/oxidecomputer/typify) (2 days ago) - compiler from JSON Schema into idiomatic Rust types
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
