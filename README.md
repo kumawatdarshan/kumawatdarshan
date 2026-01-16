@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [dtolnay/quote](https://github.com/dtolnay/quote) (today) - Rust quasi-quoting
+- [cachix/cachix](https://github.com/cachix/cachix) (today) - Command line client for Nix binary cache hosting:
+- [axatbhardwaj/gemini-skills](https://github.com/axatbhardwaj/gemini-skills) (today) - Universal AI skills for Gemini CLI and Claude Code
 - [Omni-guides/Jackify](https://github.com/Omni-guides/Jackify) (2 days ago) - Jackify - Simplifying Wabbajack modlist installation and configuration on Linux
 - [totoshko88/RustConn](https://github.com/totoshko88/RustConn) (2 days ago) - Modern connection manager for Linux with GTK4/Wayland-native interface.
-- [j178/prek](https://github.com/j178/prek) (2 days ago) - ⚡ Better `pre-commit`, re-engineered in Rust
-- [hyperium/tonic](https://github.com/hyperium/tonic) (2 days ago) - A native gRPC client &amp; server implementation with async/await support.
-- [oxidecomputer/typify](https://github.com/oxidecomputer/typify) (3 days ago) - compiler from JSON Schema into idiomatic Rust types
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
