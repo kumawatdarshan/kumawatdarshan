@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [ShadowBlip/OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) (today) - Open source gamepad-native game launcher and overlay
 - [dtolnay/quote](https://github.com/dtolnay/quote) (2 days ago) - Rust quasi-quoting
 - [cachix/cachix](https://github.com/cachix/cachix) (2 days ago) - Command line client for Nix binary cache hosting:
 - [axatbhardwaj/gemini-skills](https://github.com/axatbhardwaj/gemini-skills) (2 days ago) - Universal AI skills for Gemini CLI and Claude Code
 - [Omni-guides/Jackify](https://github.com/Omni-guides/Jackify) (4 days ago) - Jackify - Simplifying Wabbajack modlist installation and configuration on Linux
-- [totoshko88/RustConn](https://github.com/totoshko88/RustConn) (4 days ago) - Modern connection manager for Linux with GTK4/Wayland-native interface.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
