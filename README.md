@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [sshilovsky/fish-helix](https://github.com/sshilovsky/fish-helix) (today) - helix key bindings for fish
 - [20vikash/KWS](https://github.com/20vikash/KWS) (1 day ago) - 
 - [IRIS-NITK/Staging-Server](https://github.com/IRIS-NITK/Staging-Server) (2 days ago) - A Django based web platform designed to streamline the deployment and testing of dockerized web applications.
 - [ShadowBlip/OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) (2 days ago) - Open source gamepad-native game launcher and overlay
 - [dtolnay/quote](https://github.com/dtolnay/quote) (4 days ago) - Rust quasi-quoting
-- [cachix/cachix](https://github.com/cachix/cachix) (4 days ago) - Command line client for Nix binary cache hosting:
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
