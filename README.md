@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (4 days ago)
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (5 days ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (4 weeks ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (1 month ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [id-Software/DOOM](https://github.com/id-Software/DOOM) (today) - DOOM Open Source Release
-- [afska/emudevz](https://github.com/afska/emudevz) (today) - 🕹️ A game about building emulators!
-- [sshilovsky/fish-helix](https://github.com/sshilovsky/fish-helix) (1 day ago) - helix key bindings for fish
-- [20vikash/KWS](https://github.com/20vikash/KWS) (2 days ago) - 
-- [IRIS-NITK/Staging-Server](https://github.com/IRIS-NITK/Staging-Server) (3 days ago) - A Django based web platform designed to streamline the deployment and testing of dockerized web applications.
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) (1 day ago) - DOOM Open Source Release
+- [afska/emudevz](https://github.com/afska/emudevz) (1 day ago) - 🕹️ A game about building emulators!
+- [sshilovsky/fish-helix](https://github.com/sshilovsky/fish-helix) (2 days ago) - helix key bindings for fish
+- [20vikash/KWS](https://github.com/20vikash/KWS) (3 days ago) - 
+- [IRIS-NITK/Staging-Server](https://github.com/IRIS-NITK/Staging-Server) (4 days ago) - A Django based web platform designed to streamline the deployment and testing of dockerized web applications.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
