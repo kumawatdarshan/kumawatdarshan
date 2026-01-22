@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) (today) - Linux running inside a PDF file via a RISC-V emulator
+- [eylenburg/linoffice](https://github.com/eylenburg/linoffice) (today) - Microsoft Office Launcher for Linux
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) (1 day ago) - DOOM Open Source Release
 - [afska/emudevz](https://github.com/afska/emudevz) (1 day ago) - 🕹️ A game about building emulators!
 - [sshilovsky/fish-helix](https://github.com/sshilovsky/fish-helix) (2 days ago) - helix key bindings for fish
-- [20vikash/KWS](https://github.com/20vikash/KWS) (3 days ago) - 
-- [IRIS-NITK/Staging-Server](https://github.com/IRIS-NITK/Staging-Server) (4 days ago) - A Django based web platform designed to streamline the deployment and testing of dockerized web applications.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
