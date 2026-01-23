@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [Prayag2/drawy](https://github.com/Prayag2/drawy) (today) - Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.
+- [usebruno/fast-json-format](https://github.com/usebruno/fast-json-format) (today) - Fast JSON formatting library
 - [calcom/cal.com](https://github.com/calcom/cal.com) (today) - Scheduling infrastructure for absolutely everyone.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) (today) - Type-Safe Errors for JS &amp; TypeScript
 - [SwapnilSoni1999/node-libcurl-impersonate](https://github.com/SwapnilSoni1999/node-libcurl-impersonate) (1 day ago) - libcurl (curl-impersonate) bindings for Node.js
-- [apify/impit](https://github.com/apify/impit) (1 day ago) - impit | rust library for browser impersonation
-- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) (1 day ago) - Linux running inside a PDF file via a RISC-V emulator
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
