@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [supermacro/neverthrow](https://github.com/supermacro/neverthrow) (today) - Type-Safe Errors for JS &amp; TypeScript
 - [SwapnilSoni1999/node-libcurl-impersonate](https://github.com/SwapnilSoni1999/node-libcurl-impersonate) (1 day ago) - libcurl (curl-impersonate) bindings for Node.js
 - [apify/impit](https://github.com/apify/impit) (1 day ago) - impit | rust library for browser impersonation
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) (1 day ago) - Linux running inside a PDF file via a RISC-V emulator
 - [eylenburg/linoffice](https://github.com/eylenburg/linoffice) (1 day ago) - Microsoft Office Launcher for Linux
-- [id-Software/DOOM](https://github.com/id-Software/DOOM) (2 days ago) - DOOM Open Source Release
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
