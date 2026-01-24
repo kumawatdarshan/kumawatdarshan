@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (6 days ago)
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 week ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (1 month ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (1 month ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [Prayag2/drawy](https://github.com/Prayag2/drawy) (today) - Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.
-- [usebruno/fast-json-format](https://github.com/usebruno/fast-json-format) (today) - Fast JSON formatting library
-- [calcom/cal.com](https://github.com/calcom/cal.com) (today) - Scheduling infrastructure for absolutely everyone.
-- [supermacro/neverthrow](https://github.com/supermacro/neverthrow) (today) - Type-Safe Errors for JS &amp; TypeScript
-- [SwapnilSoni1999/node-libcurl-impersonate](https://github.com/SwapnilSoni1999/node-libcurl-impersonate) (1 day ago) - libcurl (curl-impersonate) bindings for Node.js
+- [Prayag2/drawy](https://github.com/Prayag2/drawy) (1 day ago) - Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.
+- [usebruno/fast-json-format](https://github.com/usebruno/fast-json-format) (1 day ago) - Fast JSON formatting library
+- [calcom/cal.com](https://github.com/calcom/cal.com) (1 day ago) - Scheduling infrastructure for absolutely everyone.
+- [supermacro/neverthrow](https://github.com/supermacro/neverthrow) (1 day ago) - Type-Safe Errors for JS &amp; TypeScript
+- [SwapnilSoni1999/node-libcurl-impersonate](https://github.com/SwapnilSoni1999/node-libcurl-impersonate) (2 days ago) - libcurl (curl-impersonate) bindings for Node.js
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
