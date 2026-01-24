@@ -27,7 +27,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [Prayag2/drawy](https://github.com/Prayag2/drawy) (1 day ago) - Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.
+- [Prayag2/drawy](https://github.com/Prayag2/drawy) (1 day ago) - The project has now moved to KDE Invent.
 - [usebruno/fast-json-format](https://github.com/usebruno/fast-json-format) (1 day ago) - Fast JSON formatting library
 - [calcom/cal.com](https://github.com/calcom/cal.com) (1 day ago) - Scheduling infrastructure for absolutely everyone.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) (1 day ago) - Type-Safe Errors for JS &amp; TypeScript
