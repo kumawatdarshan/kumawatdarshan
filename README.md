@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [chayleaf/notnft](https://github.com/chayleaf/notnft) (today) - Nix DSL for nftables
-- [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) (today) - A NixOS router framework
-- [kossLAN/qtengine](https://github.com/kossLAN/qtengine) (1 day ago) - QT Platform Theme made easy.
-- [Prayag2/drawy](https://github.com/Prayag2/drawy) (2 days ago) - The project has now moved to KDE Invent.
-- [usebruno/fast-json-format](https://github.com/usebruno/fast-json-format) (2 days ago) - Fast JSON formatting library
+- [chayleaf/notnft](https://github.com/chayleaf/notnft) (1 day ago) - Nix DSL for nftables
+- [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) (1 day ago) - A NixOS router framework
+- [kossLAN/qtengine](https://github.com/kossLAN/qtengine) (2 days ago) - QT Platform Theme made easy.
+- [Prayag2/drawy](https://github.com/Prayag2/drawy) (3 days ago) - The project has now moved to KDE Invent.
+- [usebruno/fast-json-format](https://github.com/usebruno/fast-json-format) (3 days ago) - Fast JSON formatting library
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
