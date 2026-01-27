@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [getsops/sops](https://github.com/getsops/sops) (today) - Simple and flexible tool for managing secrets
 - [htkhiem/euphonica](https://github.com/htkhiem/euphonica) (1 day ago) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 - [nix-community/harmonia](https://github.com/nix-community/harmonia) (1 day ago) - Nix binary cache implemented in rust (maintainer: @Mic92)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) (1 day ago) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [pfassina/sopswarden](https://github.com/pfassina/sopswarden) (1 day ago) - SOPS secrets management integrated with Bitwarden for NixOS
-- [chayleaf/notnft](https://github.com/chayleaf/notnft) (2 days ago) - Nix DSL for nftables
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
