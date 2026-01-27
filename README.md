@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) (today) - Music player in POSIX-sh using mpv from the shell/fzf &#43; extras/goodies 🎧📡🛸
+- [nix-community/nurl](https://github.com/nix-community/nurl) (today) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
+- [fooyin/fooyin](https://github.com/fooyin/fooyin) (today) - A customisable music player
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) (today) - Tools for concurrent programming in Rust
 - [Stremio/stremio-shell](https://github.com/Stremio/stremio-shell) (today) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
-- [getsops/sops](https://github.com/getsops/sops) (today) - Simple and flexible tool for managing secrets
-- [htkhiem/euphonica](https://github.com/htkhiem/euphonica) (1 day ago) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
-- [nix-community/harmonia](https://github.com/nix-community/harmonia) (1 day ago) - Nix binary cache implemented in rust (maintainer: @Mic92)
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
