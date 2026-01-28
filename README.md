@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [nix-community/impermanence](https://github.com/nix-community/impermanence) (today) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) (today) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [teriflix/scrite](https://github.com/teriflix/scrite) (today) - Crossplatform Screenwriting Software
 - [miuda-ai/lele](https://github.com/miuda-ai/lele) (today) - Bare-Metal Rust Audio AI Framework
 - [archlinux/alpm](https://github.com/archlinux/alpm) (1 day ago) - Project that works on specifications, Rust libraries and tools for Arch Linux Package Management (read-only mirror)
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) (1 day ago) - Music player in POSIX-sh using mpv from the shell/fzf &#43; extras/goodies 🎧📡🛸
-- [nix-community/nurl](https://github.com/nix-community/nurl) (1 day ago) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
