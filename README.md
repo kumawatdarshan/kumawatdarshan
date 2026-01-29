@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (today)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 day ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 week ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (1 month ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [nix-community/impermanence](https://github.com/nix-community/impermanence) (today) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) (today) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-- [teriflix/scrite](https://github.com/teriflix/scrite) (today) - Crossplatform Screenwriting Software
-- [miuda-ai/lele](https://github.com/miuda-ai/lele) (today) - Bare-Metal Rust Audio AI Framework
-- [archlinux/alpm](https://github.com/archlinux/alpm) (1 day ago) - Project that works on specifications, Rust libraries and tools for Arch Linux Package Management (read-only mirror)
+- [nix-community/impermanence](https://github.com/nix-community/impermanence) (1 day ago) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) (1 day ago) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- [teriflix/scrite](https://github.com/teriflix/scrite) (1 day ago) - Crossplatform Screenwriting Software
+- [miuda-ai/lele](https://github.com/miuda-ai/lele) (1 day ago) - Bare-Metal Rust Audio AI Framework
+- [archlinux/alpm](https://github.com/archlinux/alpm) (2 days ago) - Project that works on specifications, Rust libraries and tools for Arch Linux Package Management (read-only mirror)
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
