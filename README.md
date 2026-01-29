@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [KDAB/hotspot](https://github.com/KDAB/hotspot) (today) - The Linux perf GUI for performance analysis.
 - [Echinoidea/Aporetic-Nerd-Font](https://github.com/Echinoidea/Aporetic-Nerd-Font) (today) - Nerd Font patch with glyphs of Protesilaos&#39; Aporetic font. https://github.com/protesilaos/aporetic
 - [protesilaos/aporetic](https://github.com/protesilaos/aporetic) (today) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my &#34;Iosevka Comfy&#34; fonts.
 - [gamedolphin/speakwith](https://github.com/gamedolphin/speakwith) (today) - Slack alternative built with TAMASHA
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) (1 day ago) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) (1 day ago) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
