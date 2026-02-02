@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (today) - Staging repo for development of native port of TypeScript
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) (today) - A refreshingly simple data-driven game engine built in Rust
 - [SwapnilSoni1999/courserabot-tg](https://github.com/SwapnilSoni1999/courserabot-tg) (1 day ago) - A telegram bot to invite students on coursera. (Admin account required)
 - [microsoft/bf-tree](https://github.com/microsoft/bf-tree) (3 days ago) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) (4 days ago) - The Linux perf GUI for performance analysis.
-- [Echinoidea/Aporetic-Nerd-Font](https://github.com/Echinoidea/Aporetic-Nerd-Font) (4 days ago) - Nerd Font patch with glyphs of Protesilaos&#39; Aporetic font. https://github.com/protesilaos/aporetic
-- [protesilaos/aporetic](https://github.com/protesilaos/aporetic) (4 days ago) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my &#34;Iosevka Comfy&#34; fonts.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
