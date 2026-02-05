@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) (today) - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) (today) - Web Awesome (&#34;Shoelace 3&#34;) has been released! Get it here 👇👇👇
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (2 days ago) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) (3 days ago) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (3 days ago) - Staging repo for development of native port of TypeScript
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 days ago) - A refreshingly simple data-driven game engine built in Rust
-- [SwapnilSoni1999/courserabot-tg](https://github.com/SwapnilSoni1999/courserabot-tg) (4 days ago) - A telegram bot to invite students on coursera. (Admin account required)
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
