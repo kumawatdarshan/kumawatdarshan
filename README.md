@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [maxcountryman/tower-sessions](https://github.com/maxcountryman/tower-sessions) (today) - 🥠 Sessions as a `tower` and `axum` middleware.
 - [moka-rs/moka](https://github.com/moka-rs/moka) (today) - A high performance concurrent caching library for Rust
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) (today) - web development for the rest of us
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) (1 day ago) - The Firefox theme with too many options.. FF Ultima.
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) (1 day ago) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-- [mahkoh/jay](https://github.com/mahkoh/jay) (1 day ago) - A Wayland Compositor
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
