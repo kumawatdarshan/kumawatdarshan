@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (today)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 day ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 week ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (3 weeks ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (1 month ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [maxcountryman/tower-sessions](https://github.com/maxcountryman/tower-sessions) (today) - 🥠 Sessions as a `tower` and `axum` middleware.
-- [moka-rs/moka](https://github.com/moka-rs/moka) (today) - A high performance concurrent caching library for Rust
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) (today) - web development for the rest of us
-- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) (1 day ago) - The Firefox theme with too many options.. FF Ultima.
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) (1 day ago) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [maxcountryman/tower-sessions](https://github.com/maxcountryman/tower-sessions) (1 day ago) - 🥠 Sessions as a `tower` and `axum` middleware.
+- [moka-rs/moka](https://github.com/moka-rs/moka) (1 day ago) - A high performance concurrent caching library for Rust
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) (1 day ago) - web development for the rest of us
+- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) (2 days ago) - The Firefox theme with too many options.. FF Ultima.
+- [simonmichael/hledger](https://github.com/simonmichael/hledger) (2 days ago) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
