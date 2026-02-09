@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [Vigintillionn/niri-sidebar](https://github.com/Vigintillionn/niri-sidebar) (today) - 
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) (today) - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
+- [unsecretised/rustcast](https://github.com/unsecretised/rustcast) (today) - An open source alternative to raycast, in rust!!
 - [surge-downloader/surge](https://github.com/surge-downloader/surge) (1 day ago) - Surge is a blazing fast, open-source terminal (TUI) download manager built in Go.
 - [BETAER-08/amdb](https://github.com/BETAER-08/amdb) (1 day ago) - Give your AI Agent understanding of your codebase. A Rust CLI that turns your entire project into a single, optimized context file for Cursor, Antigravity, and Claude.
-- [maxcountryman/tower-sessions](https://github.com/maxcountryman/tower-sessions) (2 days ago) - 🥠 Sessions as a `tower` and `axum` middleware.
-- [moka-rs/moka](https://github.com/moka-rs/moka) (2 days ago) - A high performance concurrent caching library for Rust
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) (2 days ago) - web development for the rest of us
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
