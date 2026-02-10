@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [Uni-Gal/Ayaka](https://github.com/Uni-Gal/Ayaka) (today) - A visual novel engine written in Rust. Just Ayaka.
 - [ZacharyHampton/HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) (1 day ago) - Python package for scraping real estate property data
 - [Vigintillionn/niri-sidebar](https://github.com/Vigintillionn/niri-sidebar) (1 day ago) - A lightweight, external sidebar manager for the Niri window manager.
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) (1 day ago) - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [unsecretised/rustcast](https://github.com/unsecretised/rustcast) (1 day ago) - An open source alternative to raycast, in rust!!
-- [surge-downloader/surge](https://github.com/surge-downloader/surge) (2 days ago) - Surge is a blazing fast, open-source terminal (TUI) download manager built in Go.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
