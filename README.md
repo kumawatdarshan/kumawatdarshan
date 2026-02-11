@@ -11,8 +11,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 day ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 week ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 days ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 weeks ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (3 weeks ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (1 month ago)
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (2 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [Uni-Gal/Ayaka](https://github.com/Uni-Gal/Ayaka) (today) - A visual novel engine written in Rust. Just Ayaka.
-- [ZacharyHampton/HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) (1 day ago) - Python package for scraping real estate property data
-- [Vigintillionn/niri-sidebar](https://github.com/Vigintillionn/niri-sidebar) (1 day ago) - A lightweight, external sidebar manager for the Niri window manager.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) (1 day ago) - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [unsecretised/rustcast](https://github.com/unsecretised/rustcast) (1 day ago) - An open source alternative to raycast, in rust!!
+- [Uni-Gal/Ayaka](https://github.com/Uni-Gal/Ayaka) (1 day ago) - A visual novel engine written in Rust. Just Ayaka.
+- [ZacharyHampton/HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) (2 days ago) - Python package for scraping real estate property data
+- [Vigintillionn/niri-sidebar](https://github.com/Vigintillionn/niri-sidebar) (2 days ago) - A lightweight, external sidebar manager for the Niri window manager.
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) (2 days ago) - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
+- [unsecretised/rustcast](https://github.com/unsecretised/rustcast) (2 days ago) - An open source alternative to raycast, in rust!!
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
