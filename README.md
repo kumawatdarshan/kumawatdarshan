@@ -11,8 +11,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 day ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 weeks ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 days ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 weeks ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 month ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (1 month ago)
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (2 months ago)
@@ -27,7 +27,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) (6 days ago) - A high performance, zero-copy URL router.
+- [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) (1 week ago) - A high performance, zero-copy URL router.
 - [Uni-Gal/Ayaka](https://github.com/Uni-Gal/Ayaka) (1 week ago) - A visual novel engine written in Rust. Just Ayaka.
 - [ZacharyHampton/HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) (1 week ago) - Python package for scraping real estate property data
 - [Vigintillionn/niri-sidebar](https://github.com/Vigintillionn/niri-sidebar) (1 week ago) - A lightweight, external sidebar manager for the Niri window manager.
