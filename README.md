@@ -11,10 +11,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (5 days ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (6 days ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 weeks ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 month ago)
-- [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (1 month ago)
+- [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (2 months ago)
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (2 months ago)
 
 #### 🌱 My latest projects
