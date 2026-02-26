@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [rust-lang/miri](https://github.com/rust-lang/miri) (today) - An interpreter for Rust&#39;s mid-level intermediate representation
 - [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) (2 weeks ago) - A high performance, zero-copy URL router.
 - [Uni-Gal/Ayaka](https://github.com/Uni-Gal/Ayaka) (2 weeks ago) - A visual novel engine written in Rust. Just Ayaka.
 - [ZacharyHampton/HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) (2 weeks ago) - Python package for scraping real estate property data
 - [Vigintillionn/niri-sidebar](https://github.com/Vigintillionn/niri-sidebar) (2 weeks ago) - A lightweight, external sidebar manager for the Niri window manager.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) (2 weeks ago) - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
