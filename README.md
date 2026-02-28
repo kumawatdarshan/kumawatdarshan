@@ -27,9 +27,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (today) - 🌈 React for interactive command-line apps
-- [juspay/framework-libs-rs](https://github.com/juspay/framework-libs-rs) (1 day ago) - A collection of Rust libraries and utilities to aid application development.
-- [rust-lang/miri](https://github.com/rust-lang/miri) (1 day ago) - An interpreter for Rust&#39;s mid-level intermediate representation
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (1 day ago) - 🌈 React for interactive command-line apps
+- [juspay/framework-libs-rs](https://github.com/juspay/framework-libs-rs) (2 days ago) - A collection of Rust libraries and utilities to aid application development.
+- [rust-lang/miri](https://github.com/rust-lang/miri) (2 days ago) - An interpreter for Rust&#39;s mid-level intermediate representation
 - [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) (2 weeks ago) - A high performance, zero-copy URL router.
 - [Uni-Gal/Ayaka](https://github.com/Uni-Gal/Ayaka) (2 weeks ago) - A visual novel engine written in Rust. Just Ayaka.
 
