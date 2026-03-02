@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 week ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 weeks ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 month ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 month ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (2 months ago)
@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) (today) - A platform for simplifying job search
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (2 days ago) - 🌈 React for interactive command-line apps
-- [juspay/framework-libs-rs](https://github.com/juspay/framework-libs-rs) (3 days ago) - A collection of Rust libraries and utilities to aid application development.
-- [rust-lang/miri](https://github.com/rust-lang/miri) (3 days ago) - An interpreter for Rust&#39;s mid-level intermediate representation
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) (1 day ago) - A platform for simplifying job search
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (3 days ago) - 🌈 React for interactive command-line apps
+- [juspay/framework-libs-rs](https://github.com/juspay/framework-libs-rs) (4 days ago) - A collection of Rust libraries and utilities to aid application development.
+- [rust-lang/miri](https://github.com/rust-lang/miri) (4 days ago) - An interpreter for Rust&#39;s mid-level intermediate representation
 - [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) (2 weeks ago) - A high performance, zero-copy URL router.
 
 <div>
