@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) (1 day ago) - A platform for simplifying job search
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (3 days ago) - 🌈 React for interactive command-line apps
-- [juspay/framework-libs-rs](https://github.com/juspay/framework-libs-rs) (4 days ago) - A collection of Rust libraries and utilities to aid application development.
-- [rust-lang/miri](https://github.com/rust-lang/miri) (4 days ago) - An interpreter for Rust&#39;s mid-level intermediate representation
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) (2 days ago) - A platform for simplifying job search
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (4 days ago) - 🌈 React for interactive command-line apps
+- [juspay/framework-libs-rs](https://github.com/juspay/framework-libs-rs) (5 days ago) - A collection of Rust libraries and utilities to aid application development.
+- [rust-lang/miri](https://github.com/rust-lang/miri) (5 days ago) - An interpreter for Rust&#39;s mid-level intermediate representation
 - [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) (2 weeks ago) - A high performance, zero-copy URL router.
 
 <div>
