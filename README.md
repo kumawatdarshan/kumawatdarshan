@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) (2 days ago) - A platform for simplifying job search
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (4 days ago) - 🌈 React for interactive command-line apps
-- [juspay/framework-libs-rs](https://github.com/juspay/framework-libs-rs) (5 days ago) - A collection of Rust libraries and utilities to aid application development.
-- [rust-lang/miri](https://github.com/rust-lang/miri) (5 days ago) - An interpreter for Rust&#39;s mid-level intermediate representation
-- [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) (2 weeks ago) - A high performance, zero-copy URL router.
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) (3 days ago) - A platform for simplifying job search
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (5 days ago) - 🌈 React for interactive command-line apps
+- [juspay/framework-libs-rs](https://github.com/juspay/framework-libs-rs) (6 days ago) - A collection of Rust libraries and utilities to aid application development.
+- [rust-lang/miri](https://github.com/rust-lang/miri) (6 days ago) - An interpreter for Rust&#39;s mid-level intermediate representation
+- [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) (3 weeks ago) - A high performance, zero-copy URL router.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
