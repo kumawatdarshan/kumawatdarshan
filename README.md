@@ -15,7 +15,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 month ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 month ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (2 months ago)
-- [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (2 months ago)
+- [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,8 +27,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) (4 days ago) - A platform for simplifying job search
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (6 days ago) - 🌈 React for interactive command-line apps
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) (5 days ago) - A platform for simplifying job search
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (1 week ago) - 🌈 React for interactive command-line apps
 - [juspay/framework-libs-rs](https://github.com/juspay/framework-libs-rs) (1 week ago) - A collection of Rust libraries and utilities to aid application development.
 - [rust-lang/miri](https://github.com/rust-lang/miri) (1 week ago) - An interpreter for Rust&#39;s mid-level intermediate representation
 - [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) (3 weeks ago) - A high performance, zero-copy URL router.
