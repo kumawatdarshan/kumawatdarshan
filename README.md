@@ -27,8 +27,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) (today) - A Rust compiler with ownership checking, written in PHP
-- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) (5 days ago) - A platform for simplifying job search
+- [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) (1 day ago) - A Rust compiler with ownership checking, written in PHP
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) (6 days ago) - A platform for simplifying job search
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (1 week ago) - 🌈 React for interactive command-line apps
 - [juspay/framework-libs-rs](https://github.com/juspay/framework-libs-rs) (1 week ago) - A collection of Rust libraries and utilities to aid application development.
 - [rust-lang/miri](https://github.com/rust-lang/miri) (1 week ago) - An interpreter for Rust&#39;s mid-level intermediate representation
