@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [TEJASJONDHALE/dms-nvidia-gpu-monitor](https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor) (5 days ago) - NVIDIA GPU Monitor for dms
-- [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) (6 days ago) - A Rust compiler with ownership checking, written in PHP
+- [TEJASJONDHALE/dms-nvidia-gpu-monitor](https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor) (6 days ago) - NVIDIA GPU Monitor for dms
+- [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) (1 week ago) - A Rust compiler with ownership checking, written in PHP
 - [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) (1 week ago) - A platform for simplifying job search
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (1 week ago) - 🌈 React for interactive command-line apps
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) (2 weeks ago) - 🌈 React for interactive command-line apps
 - [juspay/framework-libs-rs](https://github.com/juspay/framework-libs-rs) (2 weeks ago) - A collection of Rust libraries and utilities to aid application development.
 
 <div>
