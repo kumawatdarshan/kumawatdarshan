@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) (today) - Lightpanda: the headless browser designed for AI and automation
 - [binimum/tidal-ui](https://github.com/binimum/tidal-ui) (today) - Simple Tidal frontend. Also on tidal.qqdl.site
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) (1 day ago) - A modern self-hosted music player.
 - [gabehf/Koito](https://github.com/gabehf/Koito) (2 days ago) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [TEJASJONDHALE/dms-nvidia-gpu-monitor](https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor) (1 week ago) - NVIDIA GPU Monitor for dms
-- [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) (1 week ago) - A Rust compiler with ownership checking, written in PHP
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
