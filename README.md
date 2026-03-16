@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (3 weeks ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (4 weeks ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 month ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 month ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (2 months ago)
@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) (today) - Lightpanda: the headless browser designed for AI and automation
-- [binimum/tidal-ui](https://github.com/binimum/tidal-ui) (today) - Simple Tidal frontend. Also on tidal.qqdl.site
-- [jeffvli/feishin](https://github.com/jeffvli/feishin) (1 day ago) - A modern self-hosted music player.
-- [gabehf/Koito](https://github.com/gabehf/Koito) (2 days ago) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) (1 day ago) - Lightpanda: the headless browser designed for AI and automation
+- [binimum/tidal-ui](https://github.com/binimum/tidal-ui) (1 day ago) - Simple Tidal frontend. Also on tidal.qqdl.site
+- [jeffvli/feishin](https://github.com/jeffvli/feishin) (2 days ago) - A modern self-hosted music player.
+- [gabehf/Koito](https://github.com/gabehf/Koito) (3 days ago) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [TEJASJONDHALE/dms-nvidia-gpu-monitor](https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor) (1 week ago) - NVIDIA GPU Monitor for dms
 
 <div>
