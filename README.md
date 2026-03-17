@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) (1 day ago) - Lightpanda: the headless browser designed for AI and automation
-- [binimum/tidal-ui](https://github.com/binimum/tidal-ui) (1 day ago) - Simple Tidal frontend. Also on tidal.qqdl.site
-- [jeffvli/feishin](https://github.com/jeffvli/feishin) (2 days ago) - A modern self-hosted music player.
-- [gabehf/Koito](https://github.com/gabehf/Koito) (3 days ago) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) (2 days ago) - Lightpanda: the headless browser designed for AI and automation
+- [binimum/tidal-ui](https://github.com/binimum/tidal-ui) (2 days ago) - Simple Tidal frontend. Also on tidal.qqdl.site
+- [jeffvli/feishin](https://github.com/jeffvli/feishin) (3 days ago) - A modern self-hosted music player.
+- [gabehf/Koito](https://github.com/gabehf/Koito) (4 days ago) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [TEJASJONDHALE/dms-nvidia-gpu-monitor](https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor) (1 week ago) - NVIDIA GPU Monitor for dms
 
 <div>
