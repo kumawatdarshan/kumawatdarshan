@@ -14,7 +14,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 month ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (2 months ago)
-- [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (2 months ago)
+- [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (3 months ago)
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -27,8 +27,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [stepbrobd/rfm](https://github.com/stepbrobd/rfm) (3 days ago) - router flow monitor
-- [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) (6 days ago) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
+- [stepbrobd/rfm](https://github.com/stepbrobd/rfm) (4 days ago) - router flow monitor
+- [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) (1 week ago) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) (1 week ago) - Lightpanda: the headless browser designed for AI and automation
 - [binimum/tidal-ui](https://github.com/binimum/tidal-ui) (1 week ago) - Simple Tidal frontend.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) (1 week ago) - A modern self-hosted music player.
