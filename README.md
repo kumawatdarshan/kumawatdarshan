@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [terry90/soulbeet](https://github.com/terry90/soulbeet) (today) - Automated music downloader and manager integrating Slskd and Beets.
 - [stepbrobd/rfm](https://github.com/stepbrobd/rfm) (6 days ago) - router flow monitor
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) (1 week ago) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) (1 week ago) - Lightpanda: the headless browser designed for AI and automation
 - [binimum/tidal-ui](https://github.com/binimum/tidal-ui) (1 week ago) - Simple Tidal frontend.
-- [jeffvli/feishin](https://github.com/jeffvli/feishin) (1 week ago) - A modern self-hosted music player.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
