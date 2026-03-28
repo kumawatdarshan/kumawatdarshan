@@ -27,7 +27,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [terry90/soulbeet](https://github.com/terry90/soulbeet) (1 day ago) - Automated music downloader and manager integrating Slskd and Beets.
+- [terry90/soulbeet](https://github.com/terry90/soulbeet) (2 days ago) - Automated music downloader and manager integrating Slskd and Beets.
 - [stepbrobd/rfm](https://github.com/stepbrobd/rfm) (1 week ago) - router flow monitor
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) (1 week ago) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) (1 week ago) - Lightpanda: the headless browser designed for AI and automation
