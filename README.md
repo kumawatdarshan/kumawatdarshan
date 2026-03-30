@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (today)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 day ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 months ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (2 months ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (3 months ago)
@@ -27,7 +27,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [terry90/soulbeet](https://github.com/terry90/soulbeet) (3 days ago) - Automated music downloader and manager integrating Slskd and Beets.
+- [terry90/soulbeet](https://github.com/terry90/soulbeet) (4 days ago) - Automated music downloader and manager integrating Slskd and Beets.
 - [stepbrobd/rfm](https://github.com/stepbrobd/rfm) (1 week ago) - router flow monitor
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) (1 week ago) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) (2 weeks ago) - Lightpanda: the headless browser designed for AI and automation
