@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) (today) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [terry90/soulbeet](https://github.com/terry90/soulbeet) (6 days ago) - Automated music downloader and manager integrating Slskd and Beets.
 - [stepbrobd/rfm](https://github.com/stepbrobd/rfm) (1 week ago) - router flow monitor
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) (2 weeks ago) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) (2 weeks ago) - Lightpanda: the headless browser designed for AI and automation
-- [binimum/tidal-ui](https://github.com/binimum/tidal-ui) (2 weeks ago) - Simple Tidal frontend.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
