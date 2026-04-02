@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 day ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 days ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 months ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (2 months ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (3 months ago)
@@ -27,8 +27,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) (today) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [terry90/soulbeet](https://github.com/terry90/soulbeet) (6 days ago) - Automated music downloader and manager integrating Slskd and Beets.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) (1 day ago) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [terry90/soulbeet](https://github.com/terry90/soulbeet) (1 week ago) - Automated music downloader and manager integrating Slskd and Beets.
 - [stepbrobd/rfm](https://github.com/stepbrobd/rfm) (1 week ago) - router flow monitor
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) (2 weeks ago) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) (2 weeks ago) - Lightpanda: the headless browser designed for AI and automation
