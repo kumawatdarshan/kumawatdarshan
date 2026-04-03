@@ -22,8 +22,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab.
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) - 
 - [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr
+- [kumawatdarshan/BlackHole](https://github.com/kumawatdarshan/BlackHole) - Black Hole Simulation
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service
-- [kumawatdarshan/geo-trivia](https://github.com/kumawatdarshan/geo-trivia) - AI based GeoPolitical Trivia quiz. 
 
 #### ⭐ Recent Stars
 
