@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) (today) - Beginner, advanced, expert level Rust training material
+- [specula-org/Specula](https://github.com/specula-org/Specula) (today) - Specula: A framework for finding deep bugs in system code using TLA&#43;
+- [nk9/okapi](https://github.com/nk9/okapi) (today) - Find lines across files by regex and edit them all at once with your $EDITOR
 - [matklad/cov-mark](https://github.com/matklad/cov-mark) (1 day ago) - 
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) (2 days ago) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [terry90/soulbeet](https://github.com/terry90/soulbeet) (1 week ago) - Automated music downloader and manager integrating Slskd and Beets.
-- [stepbrobd/rfm](https://github.com/stepbrobd/rfm) (2 weeks ago) - router flow monitor
-- [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) (2 weeks ago) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
