@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [the-mikedavis/cowlib](https://github.com/the-mikedavis/cowlib) (today) - Support library for manipulating Web protocols.
+- [dino/dino](https://github.com/dino/dino) (today) - Modern XMPP (&#34;Jabber&#34;) Chat Client using GTK/Vala
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) (5 days ago) - Beginner, advanced, expert level Rust training material
 - [specula-org/Specula](https://github.com/specula-org/Specula) (5 days ago) - Specula: A framework for finding deep bugs in system code using TLA&#43;
 - [nk9/okapi](https://github.com/nk9/okapi) (5 days ago) - Find lines across files by regex and edit them all at once with your $EDITOR
-- [matklad/cov-mark](https://github.com/matklad/cov-mark) (6 days ago) - 
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) (1 week ago) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
