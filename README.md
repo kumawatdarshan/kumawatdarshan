@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [the-mikedavis/cowlib](https://github.com/the-mikedavis/cowlib) (1 day ago) - Support library for manipulating Web protocols.
-- [dino/dino](https://github.com/dino/dino) (1 day ago) - Modern XMPP (&#34;Jabber&#34;) Chat Client using GTK/Vala
-- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) (6 days ago) - Beginner, advanced, expert level Rust training material
-- [specula-org/Specula](https://github.com/specula-org/Specula) (6 days ago) - Specula: A framework for finding deep bugs in system code using TLA&#43;
-- [nk9/okapi](https://github.com/nk9/okapi) (6 days ago) - Find lines across files by regex and edit them all at once with your $EDITOR
+- [the-mikedavis/cowlib](https://github.com/the-mikedavis/cowlib) (2 days ago) - Support library for manipulating Web protocols.
+- [dino/dino](https://github.com/dino/dino) (2 days ago) - Modern XMPP (&#34;Jabber&#34;) Chat Client using GTK/Vala
+- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) (1 week ago) - Beginner, advanced, expert level Rust training material
+- [specula-org/Specula](https://github.com/specula-org/Specula) (1 week ago) - Specula: A framework for finding deep bugs in system code using TLA&#43;
+- [nk9/okapi](https://github.com/nk9/okapi) (1 week ago) - Find lines across files by regex and edit them all at once with your $EDITOR
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
