@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 week ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 weeks ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 months ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (2 months ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (3 months ago)
@@ -27,9 +27,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [RedGridTactical/RedGridLink](https://github.com/RedGridTactical/RedGridLink) (3 days ago) - Offline MGRS navigation &#43; BLE proximity team sync for 2-8 people. No cell service needed. V1.0 through V4.0 roadmap in README.
-- [the-mikedavis/cowlib](https://github.com/the-mikedavis/cowlib) (5 days ago) - Support library for manipulating Web protocols.
-- [dino/dino](https://github.com/dino/dino) (5 days ago) - Modern XMPP (&#34;Jabber&#34;) Chat Client using GTK/Vala
+- [RedGridTactical/RedGridLink](https://github.com/RedGridTactical/RedGridLink) (4 days ago) - Offline MGRS navigation &#43; BLE proximity team sync for 2-8 people. No cell service needed. V1.0 through V4.0 roadmap in README.
+- [the-mikedavis/cowlib](https://github.com/the-mikedavis/cowlib) (6 days ago) - Support library for manipulating Web protocols.
+- [dino/dino](https://github.com/dino/dino) (6 days ago) - Modern XMPP (&#34;Jabber&#34;) Chat Client using GTK/Vala
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) (1 week ago) - Beginner, advanced, expert level Rust training material
 - [specula-org/Specula](https://github.com/specula-org/Specula) (1 week ago) - Specula: A framework for finding deep bugs in system code using TLA&#43;
 
