@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) (today) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
 - [RedGridTactical/RedGridLink](https://github.com/RedGridTactical/RedGridLink) (1 week ago) - Offline MGRS navigation &#43; BLE proximity team sync for 2-8 people. No cell service needed. V1.0 through V4.0 roadmap in README.
 - [the-mikedavis/cowlib](https://github.com/the-mikedavis/cowlib) (1 week ago) - Support library for manipulating Web protocols.
 - [dino/dino](https://github.com/dino/dino) (1 week ago) - Modern XMPP (&#34;Jabber&#34;) Chat Client using GTK/Vala
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) (2 weeks ago) - Beginner, advanced, expert level Rust training material
-- [specula-org/Specula](https://github.com/specula-org/Specula) (2 weeks ago) - Specula: A framework for finding deep bugs in system code using TLA&#43;
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
