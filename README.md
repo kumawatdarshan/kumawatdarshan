@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [razkar-studio/farben](https://github.com/razkar-studio/farben) (today) - Markup for the Terminal, but faster and safer. 
+- [renpy/renpy-build](https://github.com/renpy/renpy-build) (today) - Build system for the Ren&#39;Py visual novel engine. (The engine itself, not games.)
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (1 day ago) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) (1 day ago) - OBS Studio - Free and open source software for live streaming and screen recording
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) (2 days ago) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
-- [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) (3 days ago) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
-- [RedGridTactical/RedGridLink](https://github.com/RedGridTactical/RedGridLink) (1 week ago) - Offline MGRS navigation &#43; BLE proximity team sync for 2-8 people. No cell service needed. V1.0 through V4.0 roadmap in README.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
