@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (today) - MCP-NixOS - Model Context Protocol Server for NixOS resources
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) (today) - OBS Studio - Free and open source software for live streaming and screen recording
-- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) (1 day ago) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
-- [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) (2 days ago) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
+- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (1 day ago) - MCP-NixOS - Model Context Protocol Server for NixOS resources
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) (1 day ago) - OBS Studio - Free and open source software for live streaming and screen recording
+- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) (2 days ago) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
+- [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) (3 days ago) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
 - [RedGridTactical/RedGridLink](https://github.com/RedGridTactical/RedGridLink) (1 week ago) - Offline MGRS navigation &#43; BLE proximity team sync for 2-8 people. No cell service needed. V1.0 through V4.0 roadmap in README.
 
 <div>
