@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [Ra77a3l3-jar/oil.hx](https://github.com/Ra77a3l3-jar/oil.hx) (today) - file manager in a buffer for Helix editor
 - [razkar-studio/farben](https://github.com/razkar-studio/farben) (today) - Markup for the Terminal, but faster and safer. 
 - [renpy/renpy-build](https://github.com/renpy/renpy-build) (today) - Build system for the Ren&#39;Py visual novel engine. (The engine itself, not games.)
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (1 day ago) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) (1 day ago) - OBS Studio - Free and open source software for live streaming and screen recording
-- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) (2 days ago) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
