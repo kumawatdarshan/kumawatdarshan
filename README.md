@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift) (5 days ago) - Cranelift based backend for rustc
-- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) (5 days ago) - Main engine of the IronCalc ecosystem
-- [Ra77a3l3-jar/oil.hx](https://github.com/Ra77a3l3-jar/oil.hx) (6 days ago) - File Manager in a buffer for Helix editor
-- [razkar-studio/farben](https://github.com/razkar-studio/farben) (6 days ago) - Markup for the Terminal, but faster and safer. 
-- [renpy/renpy-build](https://github.com/renpy/renpy-build) (6 days ago) - Build system for the Ren&#39;Py visual novel engine. (The engine itself, not games.)
+- [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift) (6 days ago) - Cranelift based backend for rustc
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) (6 days ago) - Main engine of the IronCalc ecosystem
+- [Ra77a3l3-jar/oil.hx](https://github.com/Ra77a3l3-jar/oil.hx) (1 week ago) - File Manager in a buffer for Helix editor
+- [razkar-studio/farben](https://github.com/razkar-studio/farben) (1 week ago) - Markup for the Terminal, but faster and safer. 
+- [renpy/renpy-build](https://github.com/renpy/renpy-build) (1 week ago) - Build system for the Ren&#39;Py visual novel engine. (The engine itself, not games.)
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
