@@ -11,8 +11,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (3 weeks ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 months ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (4 weeks ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 months ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (3 months ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (4 months ago)
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (4 months ago)
@@ -27,8 +27,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift) (6 days ago) - Cranelift based backend for rustc
-- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) (6 days ago) - Main engine of the IronCalc ecosystem
+- [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift) (1 week ago) - Cranelift based backend for rustc
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) (1 week ago) - Main engine of the IronCalc ecosystem
 - [Ra77a3l3-jar/oil.hx](https://github.com/Ra77a3l3-jar/oil.hx) (1 week ago) - File Manager in a buffer for Helix editor
 - [razkar-studio/farben](https://github.com/razkar-studio/farben) (1 week ago) - Markup for the Terminal, but faster and safer. 
 - [renpy/renpy-build](https://github.com/renpy/renpy-build) (1 week ago) - Build system for the Ren&#39;Py visual novel engine. (The engine itself, not games.)
