@@ -27,9 +27,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [ForceGT/india-toll-plazas](https://github.com/ForceGT/india-toll-plazas) (today) - Comprehensive open-source dataset of Indian toll plazas with real-time rates, locations, and detailed information for NHAI highways and state highways. Updated monthly with 1100&#43; toll plazas.
-- [vially/wayland-explorer](https://github.com/vially/wayland-explorer) (today) - Easily browse and read Wayland protocols documentation
-- [veloren/veloren](https://github.com/veloren/veloren) (today) - [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+- [ForceGT/india-toll-plazas](https://github.com/ForceGT/india-toll-plazas) (1 day ago) - Comprehensive open-source dataset of Indian toll plazas with real-time rates, locations, and detailed information for NHAI highways and state highways. Updated monthly with 1100&#43; toll plazas.
+- [vially/wayland-explorer](https://github.com/vially/wayland-explorer) (1 day ago) - Easily browse and read Wayland protocols documentation
+- [veloren/veloren](https://github.com/veloren/veloren) (1 day ago) - [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
 - [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift) (1 week ago) - Cranelift based backend for rustc
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) (1 week ago) - Main engine of the IronCalc ecosystem
 
