@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [museslabs/stochos](https://github.com/museslabs/stochos) (today) - Keyboard driven mouse control
 - [mattpocock/skills](https://github.com/mattpocock/skills) (today) - Skills for Real Engineers. Straight from my .claude directory.
 - [Hound-Media-Server/hound](https://github.com/Hound-Media-Server/hound) (1 day ago) - All-in-one Media Server—Find, watch, track, and manage your media
 - [Xerxes-2/wakatime.hx](https://github.com/Xerxes-2/wakatime.hx) (1 day ago) - Wakatime plugin for Helix Steel
 - [ForceGT/india-toll-plazas](https://github.com/ForceGT/india-toll-plazas) (2 days ago) - Comprehensive open-source dataset of Indian toll plazas with real-time rates, locations, and detailed information for NHAI highways and state highways. Updated monthly with 1100&#43; toll plazas.
-- [vially/wayland-explorer](https://github.com/vially/wayland-explorer) (2 days ago) - Easily browse and read Wayland protocols documentation
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
