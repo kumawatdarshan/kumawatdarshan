@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [Serene-Arc/listenbrainz-playlist-uploader](https://github.com/Serene-Arc/listenbrainz-playlist-uploader) (today) - A program to upload playlists to Listenbrainz and give feedback in bulk
-- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) (today) - The headless browser for AI agents and web scraping
-- [withcoral/coral](https://github.com/withcoral/coral) (today) - One SQL interface over APIs, files, and live sources — built for agents.
-- [museslabs/stochos](https://github.com/museslabs/stochos) (1 day ago) - Keyboard driven mouse control
-- [mattpocock/skills](https://github.com/mattpocock/skills) (1 day ago) - Skills for Real Engineers. Straight from my .claude directory.
+- [Serene-Arc/listenbrainz-playlist-uploader](https://github.com/Serene-Arc/listenbrainz-playlist-uploader) (1 day ago) - A program to upload playlists to Listenbrainz and give feedback in bulk
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) (1 day ago) - The headless browser for AI agents and web scraping
+- [withcoral/coral](https://github.com/withcoral/coral) (1 day ago) - One SQL interface over APIs, files, and live sources — built for agents.
+- [museslabs/stochos](https://github.com/museslabs/stochos) (2 days ago) - Keyboard driven mouse control
+- [mattpocock/skills](https://github.com/mattpocock/skills) (2 days ago) - Skills for Real Engineers. Straight from my .claude directory.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
