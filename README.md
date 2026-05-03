@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) (today) - Installable GitHub library of 1,400&#43; agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 - [Serene-Arc/listenbrainz-playlist-uploader](https://github.com/Serene-Arc/listenbrainz-playlist-uploader) (2 days ago) - A program to upload playlists to Listenbrainz and give feedback in bulk
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) (2 days ago) - The headless browser for AI agents and web scraping
 - [withcoral/coral](https://github.com/withcoral/coral) (2 days ago) - One SQL interface over APIs, files, and live sources — built for agents.
 - [museslabs/stochos](https://github.com/museslabs/stochos) (3 days ago) - Keyboard driven mouse control
-- [mattpocock/skills](https://github.com/mattpocock/skills) (3 days ago) - Skills for Real Engineers. Straight from my .claude directory.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
