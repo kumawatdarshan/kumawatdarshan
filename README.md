@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) (today) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) (1 day ago) - Compatibility tool for Steam Play based on Wine and additional components
 - [Psychotoxical/psysonic](https://github.com/Psychotoxical/psysonic) (1 day ago) - A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri &amp; React.
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) (2 days ago) - Installable GitHub library of 1,400&#43; agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 - [Serene-Arc/listenbrainz-playlist-uploader](https://github.com/Serene-Arc/listenbrainz-playlist-uploader) (4 days ago) - A program to upload playlists to Listenbrainz and give feedback in bulk
-- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) (4 days ago) - The headless browser for AI agents and web scraping
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
