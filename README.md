@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [kgarner7/navidrome-listenbrainz-daily-playlist](https://github.com/kgarner7/navidrome-listenbrainz-daily-playlist) (today) - A Navidrome plugin to fetch daily/weekly playlists from ListenBrainz
+- [NeptuneHub/AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) (today) - AudioMuse-AI Navidrome Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) (1 day ago) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) (2 days ago) - Compatibility tool for Steam Play based on Wine and additional components
 - [Psychotoxical/psysonic](https://github.com/Psychotoxical/psysonic) (2 days ago) - A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri &amp; React.
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) (3 days ago) - Installable GitHub library of 1,400&#43; agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
-- [Serene-Arc/listenbrainz-playlist-uploader](https://github.com/Serene-Arc/listenbrainz-playlist-uploader) (5 days ago) - A program to upload playlists to Listenbrainz and give feedback in bulk
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
