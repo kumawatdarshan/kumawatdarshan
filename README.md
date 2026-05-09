@@ -27,7 +27,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [chojs23/concord](https://github.com/chojs23/concord) (today) - A TUI client for Discord
+- [chojs23/concord](https://github.com/chojs23/concord) (today) - A feature rich terminal client for Discord
 - [kgarner7/navidrome-listenbrainz-daily-playlist](https://github.com/kgarner7/navidrome-listenbrainz-daily-playlist) (3 days ago) - A Navidrome plugin to fetch daily/weekly playlists from ListenBrainz
 - [NeptuneHub/AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) (3 days ago) - AudioMuse-AI Navidrome Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) (4 days ago) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
