@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [chojs23/concord](https://github.com/chojs23/concord) (today) - A TUI client for Discord
 - [kgarner7/navidrome-listenbrainz-daily-playlist](https://github.com/kgarner7/navidrome-listenbrainz-daily-playlist) (3 days ago) - A Navidrome plugin to fetch daily/weekly playlists from ListenBrainz
 - [NeptuneHub/AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) (3 days ago) - AudioMuse-AI Navidrome Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) (4 days ago) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) (5 days ago) - Compatibility tool for Steam Play based on Wine and additional components
-- [Psychotoxical/psysonic](https://github.com/Psychotoxical/psysonic) (5 days ago) - A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri &amp; React.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
