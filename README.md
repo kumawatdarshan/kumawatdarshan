@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [nektos/act](https://github.com/nektos/act) (2 days ago) - Run your GitHub Actions locally 🚀
-- [chojs23/concord](https://github.com/chojs23/concord) (2 days ago) - A feature-rich TUI client for Discord, written in Rust.
-- [kgarner7/navidrome-listenbrainz-daily-playlist](https://github.com/kgarner7/navidrome-listenbrainz-daily-playlist) (5 days ago) - A Navidrome plugin to fetch daily/weekly playlists from ListenBrainz
-- [NeptuneHub/AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) (5 days ago) - AudioMuse-AI Navidrome Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
-- [containers/bubblewrap](https://github.com/containers/bubblewrap) (6 days ago) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
+- [nektos/act](https://github.com/nektos/act) (3 days ago) - Run your GitHub Actions locally 🚀
+- [chojs23/concord](https://github.com/chojs23/concord) (3 days ago) - A feature-rich TUI client for Discord, written in Rust.
+- [kgarner7/navidrome-listenbrainz-daily-playlist](https://github.com/kgarner7/navidrome-listenbrainz-daily-playlist) (6 days ago) - A Navidrome plugin to fetch daily/weekly playlists from ListenBrainz
+- [NeptuneHub/AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) (6 days ago) - AudioMuse-AI Navidrome Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) (1 week ago) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
