@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [karl-cta/jobctrl](https://github.com/karl-cta/jobctrl) (today) - Self-hosted job application tracker. Single Go binary, SQLite database, zero cloud dependencies.
 - [olive-language/olive](https://github.com/olive-language/olive) (today) - The Dream Programming Language
 - [ereinaimer/taurine](https://github.com/ereinaimer/taurine) (today) - Fast, secure and easy to use text expander and keyboard automation tool
 - [f-o-o-g-s/nokkvi](https://github.com/f-o-o-g-s/nokkvi) (1 day ago) - A rust based navidrome client for linux built using iced-rs
 - [nektos/act](https://github.com/nektos/act) (6 days ago) - Run your GitHub Actions locally 🚀
-- [chojs23/concord](https://github.com/chojs23/concord) (6 days ago) - A feature-rich TUI client for Discord, written in Rust.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
