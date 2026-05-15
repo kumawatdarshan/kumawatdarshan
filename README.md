@@ -27,9 +27,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [f-o-o-g-s/nokkvi](https://github.com/f-o-o-g-s/nokkvi) (today) - A rust based navidrome client for linux built using iced-rs
-- [nektos/act](https://github.com/nektos/act) (5 days ago) - Run your GitHub Actions locally 🚀
-- [chojs23/concord](https://github.com/chojs23/concord) (5 days ago) - A feature-rich TUI client for Discord, written in Rust.
+- [f-o-o-g-s/nokkvi](https://github.com/f-o-o-g-s/nokkvi) (1 day ago) - A rust based navidrome client for linux built using iced-rs
+- [nektos/act](https://github.com/nektos/act) (6 days ago) - Run your GitHub Actions locally 🚀
+- [chojs23/concord](https://github.com/chojs23/concord) (6 days ago) - A feature-rich TUI client for Discord, written in Rust.
 - [kgarner7/navidrome-listenbrainz-daily-playlist](https://github.com/kgarner7/navidrome-listenbrainz-daily-playlist) (1 week ago) - A Navidrome plugin to fetch daily/weekly playlists from ListenBrainz
 - [NeptuneHub/AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) (1 week ago) - AudioMuse-AI Navidrome Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 
