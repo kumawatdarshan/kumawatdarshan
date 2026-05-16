@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) (today) - [Mirror] 🦌 Rust library for building Wayland desktop shells with Slint UI. Create status bars, panels, notifications, and other shell components.
 - [karl-cta/jobctrl](https://github.com/karl-cta/jobctrl) (1 day ago) - Self-hosted job application tracker. Single Go binary, SQLite database, zero cloud dependencies.
 - [olive-language/olive](https://github.com/olive-language/olive) (1 day ago) - The Dream Programming Language
 - [ereinaimer/taurine](https://github.com/ereinaimer/taurine) (1 day ago) - Fast, secure and easy to use text expander and keyboard automation tool
 - [f-o-o-g-s/nokkvi](https://github.com/f-o-o-g-s/nokkvi) (2 days ago) - A rust based navidrome client for linux built using iced-rs
-- [nektos/act](https://github.com/nektos/act) (1 week ago) - Run your GitHub Actions locally 🚀
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
