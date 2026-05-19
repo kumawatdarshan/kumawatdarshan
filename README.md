@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (3 days ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (4 days ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 months ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (4 months ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (4 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) (today) - Reduce the space taken up by games and programs on disk by using native Windows APIs
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) (today) - Bitcoin Core integration/staging tree
-- [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) (2 days ago) - [Mirror] 🦌 Rust library for building Wayland desktop shells with Slint UI. Create status bars, panels, notifications, and other shell components.
-- [karl-cta/jobctrl](https://github.com/karl-cta/jobctrl) (3 days ago) - Self-hosted job application tracker. Single Go binary, SQLite database, zero cloud dependencies.
-- [olive-language/olive](https://github.com/olive-language/olive) (3 days ago) - The Dream Programming Language
+- [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) (1 day ago) - Reduce the space taken up by games and programs on disk by using native Windows APIs
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) (1 day ago) - Bitcoin Core integration/staging tree
+- [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) (3 days ago) - [Mirror] 🦌 Rust library for building Wayland desktop shells with Slint UI. Create status bars, panels, notifications, and other shell components.
+- [karl-cta/jobctrl](https://github.com/karl-cta/jobctrl) (4 days ago) - Self-hosted job application tracker. Single Go binary, SQLite database, zero cloud dependencies.
+- [olive-language/olive](https://github.com/olive-language/olive) (4 days ago) - The Dream Programming Language
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
