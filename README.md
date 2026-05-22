@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [mawww/kakoune](https://github.com/mawww/kakoune) (today) - mawww&#39;s experiment for a better code editor
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) (today) - 🎧 Your Personal Streaming Service 
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) (3 days ago) - Runtime sandboxing for Nix
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) (3 days ago) - Email Newsletter Service
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) (4 days ago) - Reduce the space taken up by games and programs on disk by using native Windows APIs
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) (4 days ago) - Bitcoin Core integration/staging tree
-- [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) (6 days ago) - [Mirror] 🦌 Rust library for building Wayland desktop shells with Slint UI. Create status bars, panels, notifications, and other shell components.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
