@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [ashish0kumar/crictty](https://github.com/ashish0kumar/crictty) (3 days ago) - cricket scores in the terminal
-- [mawww/kakoune](https://github.com/mawww/kakoune) (3 days ago) - mawww&#39;s experiment for a better code editor
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) (3 days ago) - 🎧 Your Personal Streaming Service 
-- [nixpak/nixpak](https://github.com/nixpak/nixpak) (6 days ago) - Runtime sandboxing for Nix
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) (6 days ago) - Email Newsletter Service
+- [ashish0kumar/crictty](https://github.com/ashish0kumar/crictty) (4 days ago) - cricket scores in the terminal
+- [mawww/kakoune](https://github.com/mawww/kakoune) (4 days ago) - mawww&#39;s experiment for a better code editor
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) (4 days ago) - 🎧 Your Personal Streaming Service 
+- [nixpak/nixpak](https://github.com/nixpak/nixpak) (1 week ago) - Runtime sandboxing for Nix
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) (1 week ago) - Email Newsletter Service
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
