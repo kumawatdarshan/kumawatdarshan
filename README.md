@@ -12,7 +12,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 week ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 months ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (4 months ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (4 months ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (5 months ago)
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) -  (5 months ago)
@@ -27,9 +27,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [ashish0kumar/crictty](https://github.com/ashish0kumar/crictty) (5 days ago) - cricket scores in the terminal
-- [mawww/kakoune](https://github.com/mawww/kakoune) (5 days ago) - mawww&#39;s experiment for a better code editor
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) (5 days ago) - 🎧 Your Personal Streaming Service 
+- [ashish0kumar/crictty](https://github.com/ashish0kumar/crictty) (6 days ago) - cricket scores in the terminal
+- [mawww/kakoune](https://github.com/mawww/kakoune) (6 days ago) - mawww&#39;s experiment for a better code editor
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) (6 days ago) - 🎧 Your Personal Streaming Service 
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) (1 week ago) - Runtime sandboxing for Nix
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) (1 week ago) - Email Newsletter Service
 
