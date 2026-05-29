@@ -27,9 +27,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [ashish0kumar/crictty](https://github.com/ashish0kumar/crictty) (6 days ago) - cricket scores in the terminal
-- [mawww/kakoune](https://github.com/mawww/kakoune) (6 days ago) - mawww&#39;s experiment for a better code editor
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) (6 days ago) - 🎧 Your Personal Streaming Service 
+- [ashish0kumar/crictty](https://github.com/ashish0kumar/crictty) (1 week ago) - cricket scores in the terminal
+- [mawww/kakoune](https://github.com/mawww/kakoune) (1 week ago) - mawww&#39;s experiment for a better code editor
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) (1 week ago) - 🎧 Your Personal Streaming Service 
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) (1 week ago) - Runtime sandboxing for Nix
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) (1 week ago) - Email Newsletter Service
 
