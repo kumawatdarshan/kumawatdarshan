@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) (today) - Backup tool for PC game saves
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) (6 days ago) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [ashish0kumar/crictty](https://github.com/ashish0kumar/crictty) (2 weeks ago) - cricket scores in the terminal
 - [mawww/kakoune](https://github.com/mawww/kakoune) (2 weeks ago) - mawww&#39;s experiment for a better code editor
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) (2 weeks ago) - 🎧 Your Personal Streaming Service 
-- [nixpak/nixpak](https://github.com/nixpak/nixpak) (2 weeks ago) - Runtime sandboxing for Nix
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
