@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [dhotherm/mdx-rust](https://github.com/dhotherm/mdx-rust) (today) - Rust-native optimizer for LLM agents. Policy-driven experimentation with safe, compile-validated edits.
 - [cantino/mcfly](https://github.com/cantino/mcfly) (1 day ago) - Fly through your shell history. Great Scott!
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) (2 days ago) - Backup tool for PC game saves
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) (1 week ago) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [ashish0kumar/crictty](https://github.com/ashish0kumar/crictty) (2 weeks ago) - cricket scores in the terminal
-- [mawww/kakoune](https://github.com/mawww/kakoune) (2 weeks ago) - mawww&#39;s experiment for a better code editor
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
