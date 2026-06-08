@@ -30,7 +30,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 - [dhotherm/mdx-rust](https://github.com/dhotherm/mdx-rust) (1 day ago) - Rust-native optimizer for LLM agents. Policy-driven experimentation with safe, compile-validated edits.
 - [cantino/mcfly](https://github.com/cantino/mcfly) (2 days ago) - Fly through your shell history. Great Scott!
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) (3 days ago) - Backup tool for PC game saves
-- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) (1 week ago) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) (1 week ago) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [ashish0kumar/crictty](https://github.com/ashish0kumar/crictty) (2 weeks ago) - cricket scores in the terminal
 
 <div>
