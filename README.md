@@ -11,8 +11,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (today)
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 week ago)
+- [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 day ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 weeks ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (4 months ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (4 months ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (5 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (today) - A focused launcher for your desktop - native, fast, extensible
-- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) (1 day ago) - Nix packages for AI coding agents and development tools. Automatically updated daily.
-- [dhotherm/mdx-rust](https://github.com/dhotherm/mdx-rust) (4 days ago) - Rust-native optimizer for LLM agents. Policy-driven experimentation with safe, compile-validated edits.
-- [cantino/mcfly](https://github.com/cantino/mcfly) (5 days ago) - Fly through your shell history. Great Scott!
-- [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) (6 days ago) - Backup tool for PC game saves
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (1 day ago) - A focused launcher for your desktop - native, fast, extensible
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) (2 days ago) - Nix packages for AI coding agents and development tools. Automatically updated daily.
+- [dhotherm/mdx-rust](https://github.com/dhotherm/mdx-rust) (5 days ago) - Rust-native optimizer for LLM agents. Policy-driven experimentation with safe, compile-validated edits.
+- [cantino/mcfly](https://github.com/cantino/mcfly) (6 days ago) - Fly through your shell history. Great Scott!
+- [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) (1 week ago) - Backup tool for PC game saves
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
