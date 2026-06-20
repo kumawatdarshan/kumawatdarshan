@@ -30,7 +30,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (1 week ago) - A focused launcher for your desktop - native, fast, extensible
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) (1 week ago) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [dhotherm/mdx-rust](https://github.com/dhotherm/mdx-rust) (1 week ago) - Rust-native optimizer for LLM agents. Policy-driven experimentation with safe, compile-validated edits.
-- [cantino/mcfly](https://github.com/cantino/mcfly) (1 week ago) - Fly through your shell history. Great Scott!
+- [cantino/mcfly](https://github.com/cantino/mcfly) (2 weeks ago) - Fly through your shell history. Great Scott!
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) (2 weeks ago) - Backup tool for PC game saves
 
 <div>
