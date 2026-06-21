@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) (today) - IP addresses break, dial keys instead. Modular networking stack in Rust.
+- [helix-editor/filesentry](https://github.com/helix-editor/filesentry) (today) - A reliable and performant cached directory tree in rust that can notify changes without dropping events
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (1 week ago) - A focused launcher for your desktop - native, fast, extensible
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) (1 week ago) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [dhotherm/mdx-rust](https://github.com/dhotherm/mdx-rust) (2 weeks ago) - Rust-native optimizer for LLM agents. Policy-driven experimentation with safe, compile-validated edits.
-- [cantino/mcfly](https://github.com/cantino/mcfly) (2 weeks ago) - Fly through your shell history. Great Scott!
-- [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) (2 weeks ago) - Backup tool for PC game saves
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
