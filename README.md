@@ -27,8 +27,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [chuwy/notify.hx](https://github.com/chuwy/notify.hx) (today) - A notification engine for Helix
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) (1 day ago) - IP addresses break, dial keys instead. Modular networking stack in Rust.
-- [helix-editor/filesentry](https://github.com/helix-editor/filesentry) (1 day ago) - A reliable and performant cached directory tree in rust that can notify changes without dropping events
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (1 week ago) - A focused launcher for your desktop - native, fast, extensible
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) (1 week ago) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [dhotherm/mdx-rust](https://github.com/dhotherm/mdx-rust) (2 weeks ago) - Rust-native optimizer for LLM agents. Policy-driven experimentation with safe, compile-validated edits.
