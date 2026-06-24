@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) (today) - AdNauseam: Fight back against advertising surveillance
-- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) (today) - A collection of modern, server-safe React hooks – from the ui.dev team
-- [chuwy/notify.hx](https://github.com/chuwy/notify.hx) (1 day ago) - A notification engine for Helix
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) (2 days ago) - IP addresses break, dial keys instead. Modular networking stack in Rust.
+- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) (1 day ago) - AdNauseam: Fight back against advertising surveillance
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) (1 day ago) - A collection of modern, server-safe React hooks – from the ui.dev team
+- [chuwy/notify.hx](https://github.com/chuwy/notify.hx) (2 days ago) - A notification engine for Helix
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) (3 days ago) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (1 week ago) - A focused launcher for your desktop - native, fast, extensible
 
 <div>
