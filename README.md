@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 week ago)
+- [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (2 weeks ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (3 weeks ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (4 months ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (5 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) (1 day ago) - AdNauseam: Fight back against advertising surveillance
-- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) (1 day ago) - A collection of modern, server-safe React hooks – from the ui.dev team
-- [chuwy/notify.hx](https://github.com/chuwy/notify.hx) (2 days ago) - A notification engine for Helix
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) (3 days ago) - IP addresses break, dial keys instead. Modular networking stack in Rust.
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (1 week ago) - A focused launcher for your desktop - native, fast, extensible
+- [wolfpld/tracy](https://github.com/wolfpld/tracy) (today) - Frame profiler
+- [anomalyco/rift](https://github.com/anomalyco/rift) (today) - 
+- [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) (today) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) (2 days ago) - AdNauseam: Fight back against advertising surveillance
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) (2 days ago) - A collection of modern, server-safe React hooks – from the ui.dev team
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
