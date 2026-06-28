@@ -12,7 +12,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (2 weeks ago)
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (4 weeks ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (5 months ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (5 months ago)
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab. (6 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) (today) - Yazi and Zellij with smart defaults &amp; awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus widgets, and more. Your terminal IDE.  Written in rust and blazingly fast. Available via flake/home-manager. One line install.
-- [kshitijchauhann/batman-voice](https://github.com/kshitijchauhann/batman-voice) (today) - 
-- [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) (today) - Fork of VKD3D. Development branches for Proton&#39;s Direct3D 12 implementation.
-- [truroshan/nixspr](https://github.com/truroshan/nixspr) (2 days ago) - Voice typing for Linux that actually works
-- [wolfpld/tracy](https://github.com/wolfpld/tracy) (2 days ago) - Frame profiler
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) (1 day ago) - Yazi and Zellij with smart defaults &amp; awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus widgets, and more. Your terminal IDE.  Written in rust and blazingly fast. Available via flake/home-manager. One line install.
+- [kshitijchauhann/batman-voice](https://github.com/kshitijchauhann/batman-voice) (1 day ago) - 
+- [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) (1 day ago) - Fork of VKD3D. Development branches for Proton&#39;s Direct3D 12 implementation.
+- [truroshan/nixspr](https://github.com/truroshan/nixspr) (3 days ago) - Voice typing for Linux that actually works
+- [wolfpld/tracy](https://github.com/wolfpld/tracy) (3 days ago) - Frame profiler
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
