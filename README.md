@@ -27,8 +27,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) (5 days ago) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
-- [nygardk/react-share](https://github.com/nygardk/react-share) (5 days ago) - Social media share buttons and share counts for React
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) (6 days ago) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
+- [nygardk/react-share](https://github.com/nygardk/react-share) (6 days ago) - Social media share buttons and share counts for React
 - [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) (1 week ago) - Yazi and Zellij with smart defaults &amp; awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus widgets, and more. Your terminal IDE.  Written in rust and blazingly fast. Available via flake/home-manager. One line install.
 - [kshitijchauhann/batman-voice](https://github.com/kshitijchauhann/batman-voice) (1 week ago) - 
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) (1 week ago) - Fork of VKD3D. Development branches for Proton&#39;s Direct3D 12 implementation.
