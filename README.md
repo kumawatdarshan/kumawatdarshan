@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [ankit64jangir/react-instagram-stories](https://github.com/ankit64jangir/react-instagram-stories) (today) - A high-performance, fully customizable Instagram-style Stories component for React with TypeScript support. Build engaging story experiences with images, videos, text, and custom components.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) (1 day ago) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (1 day ago) - The design language that makes your AI harness better at design.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) (1 week ago) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [nygardk/react-share](https://github.com/nygardk/react-share) (1 week ago) - Social media share buttons and share counts for React
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) (1 week ago) - Yazi and Zellij with smart defaults &amp; awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus widgets, and more. Your terminal IDE.  Written in rust and blazingly fast. Available via flake/home-manager. One line install.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
