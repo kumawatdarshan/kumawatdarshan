@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (3 weeks ago)
+- [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (4 weeks ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (5 months ago)
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (5 months ago)
@@ -27,9 +27,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [ankit64jangir/react-instagram-stories](https://github.com/ankit64jangir/react-instagram-stories) (today) - A high-performance, fully customizable Instagram-style Stories component for React with TypeScript support. Build engaging story experiences with images, videos, text, and custom components.
-- [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) (1 day ago) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (1 day ago) - The design language that makes your AI harness better at design.
+- [ankit64jangir/react-instagram-stories](https://github.com/ankit64jangir/react-instagram-stories) (1 day ago) - A high-performance, fully customizable Instagram-style Stories component for React with TypeScript support. Build engaging story experiences with images, videos, text, and custom components.
+- [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) (2 days ago) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (2 days ago) - The design language that makes your AI harness better at design.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) (1 week ago) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [nygardk/react-share](https://github.com/nygardk/react-share) (1 week ago) - Social media share buttons and share counts for React
 
