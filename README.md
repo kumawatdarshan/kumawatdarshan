@@ -27,9 +27,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [ankit64jangir/react-instagram-stories](https://github.com/ankit64jangir/react-instagram-stories) (1 day ago) - A high-performance, fully customizable Instagram-style Stories component for React with TypeScript support. Build engaging story experiences with images, videos, text, and custom components.
-- [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) (2 days ago) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (2 days ago) - The design language that makes your AI harness better at design.
+- [ankit64jangir/react-instagram-stories](https://github.com/ankit64jangir/react-instagram-stories) (2 days ago) - A high-performance, fully customizable Instagram-style Stories component for React with TypeScript support. Build engaging story experiences with images, videos, text, and custom components.
+- [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) (3 days ago) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (3 days ago) - The design language that makes your AI harness better at design.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) (1 week ago) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [nygardk/react-share](https://github.com/nygardk/react-share) (1 week ago) - Social media share buttons and share counts for React
 
