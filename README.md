@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [JulienLavocat/bevy_spacetimedb](https://github.com/JulienLavocat/bevy_spacetimedb) (today) - Use SpacetimeDB in your Bevy application
-- [ankit64jangir/react-instagram-stories](https://github.com/ankit64jangir/react-instagram-stories) (3 days ago) - A high-performance, fully customizable Instagram-style Stories component for React with TypeScript support. Build engaging story experiences with images, videos, text, and custom components.
-- [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) (4 days ago) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (4 days ago) - The design language that makes your AI harness better at design.
+- [JulienLavocat/bevy_spacetimedb](https://github.com/JulienLavocat/bevy_spacetimedb) (1 day ago) - Use SpacetimeDB in your Bevy application
+- [ankit64jangir/react-instagram-stories](https://github.com/ankit64jangir/react-instagram-stories) (4 days ago) - A high-performance, fully customizable Instagram-style Stories component for React with TypeScript support. Build engaging story experiences with images, videos, text, and custom components.
+- [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) (5 days ago) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (5 days ago) - The design language that makes your AI harness better at design.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) (1 week ago) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 
 <div>
