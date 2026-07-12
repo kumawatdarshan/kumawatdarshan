@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [JulienLavocat/bevy_spacetimedb](https://github.com/JulienLavocat/bevy_spacetimedb) (1 day ago) - Use SpacetimeDB in your Bevy application
-- [ankit64jangir/react-instagram-stories](https://github.com/ankit64jangir/react-instagram-stories) (4 days ago) - A high-performance, fully customizable Instagram-style Stories component for React with TypeScript support. Build engaging story experiences with images, videos, text, and custom components.
-- [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) (5 days ago) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (5 days ago) - The design language that makes your AI harness better at design.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) (1 week ago) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
+- [oss-apps/split-pro](https://github.com/oss-apps/split-pro) (today) - Open source alternative to Splitwise
+- [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk) (today) - DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
+- [model-checking/kani](https://github.com/model-checking/kani) (today) - Kani Rust Verifier
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) (today) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) (today) - A lightweight desktop app to manage, sync, and organize AI agent skills across 15&#43; coding tools — Cursor, Claude Code, Codex, Copilot, and more.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
