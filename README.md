@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) (today) - PostgreSQL in-database durable execution
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) (1 day ago) - Open source alternative to Splitwise
 - [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk) (1 day ago) - DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
 - [model-checking/kani](https://github.com/model-checking/kani) (1 day ago) - Kani Rust Verifier
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) (1 day ago) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) (1 day ago) - A lightweight desktop app to manage, sync, and organize AI agent skills across 15&#43; coding tools — Cursor, Claude Code, Codex, Copilot, and more.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
