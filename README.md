@@ -15,7 +15,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (5 months ago)
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (5 months ago)
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) (2 days ago) - PostgreSQL in-database durable execution
-- [oss-apps/split-pro](https://github.com/oss-apps/split-pro) (3 days ago) - Open source alternative to Splitwise
-- [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk) (3 days ago) - DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
-- [model-checking/kani](https://github.com/model-checking/kani) (3 days ago) - Kani Rust Verifier
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) (3 days ago) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) (3 days ago) - PostgreSQL in-database durable execution
+- [oss-apps/split-pro](https://github.com/oss-apps/split-pro) (4 days ago) - Open source alternative to Splitwise
+- [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk) (4 days ago) - DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
+- [model-checking/kani](https://github.com/model-checking/kani) (4 days ago) - Kani Rust Verifier
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) (4 days ago) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
