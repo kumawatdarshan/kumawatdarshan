@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) (today) - A self-hosted library for your ebooks, comics, and audiobooks
+- [kn66/smith.hx](https://github.com/kn66/smith.hx) (today) - 
 - [Poseidon-fan/linux-0.11-rs](https://github.com/Poseidon-fan/linux-0.11-rs) (3 days ago) - Linux 0.11 rewritten in idiomatic Rust: kernel, std-style user library, and 60&#43; coreutils — boots on i386 in QEMU.
 - [xiph/rnnoise](https://github.com/xiph/rnnoise) (3 days ago) - Recurrent neural network for audio noise reduction
 - [maxcountryman/tower-sessions-stores](https://github.com/maxcountryman/tower-sessions-stores) (3 days ago) - 🚃 Previously bundled session stores for `tower-sessions`.
-- [xai-org/grok-build](https://github.com/xai-org/grok-build) (3 days ago) - SpaceXAI&#39;s coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) (6 days ago) - PostgreSQL in-database durable execution
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
