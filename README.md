@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [0xramm/Indian-Stock-Market-API](https://github.com/0xramm/Indian-Stock-Market-API) (today) - Free REST API for NSE and BSE Indian stock market data. Real-time stock prices, company info, and market data via Yahoo Finance. Perfect for n8n, Zapier, trading bots, and automation. No API key required. Python Flask. MIT License.
 - [rust-lang-ua/rustcamp](https://github.com/rust-lang-ua/rustcamp) (1 day ago) - Getting ready for prod
 - [Jamie098/ferrosonic-ng](https://github.com/Jamie098/ferrosonic-ng) (1 day ago) - A terminal-based Subsonic music client written in Rust, featuring bit-perfect audio playback, gapless transitions, and full desktop integration.
 - [jaidaken/ferrosonic](https://github.com/jaidaken/ferrosonic) (1 day ago) - 
 - [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) (1 day ago) - A self-hosted library for your ebooks, comics, and audiobooks
-- [kn66/smith.hx](https://github.com/kn66/smith.hx) (1 day ago) - 
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
