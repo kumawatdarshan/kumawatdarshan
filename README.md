@@ -11,19 +11,19 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
+- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (today)
 - [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (4 days ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (5 months ago)
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (6 months ago)
 
 #### 🌱 My latest projects
 
+- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab.
 - [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) - 
 - [kumawatdarshan/esp32-experiment](https://github.com/kumawatdarshan/esp32-experiment) - Experimenting with esp32 and some sensors, particularly dht11 and ldr
-- [kumawatdarshan/BlackHole](https://github.com/kumawatdarshan/BlackHole) - Black Hole Simulation
 
 #### ⭐ Recent Stars
 
