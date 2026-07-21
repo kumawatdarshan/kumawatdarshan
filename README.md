@@ -11,8 +11,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (today)
-- [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (4 days ago)
+- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (1 day ago)
+- [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (5 days ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (5 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [0xramm/Indian-Stock-Market-API](https://github.com/0xramm/Indian-Stock-Market-API) (today) - Free REST API for NSE and BSE Indian stock market data. Real-time stock prices, company info, and market data via Yahoo Finance. Perfect for n8n, Zapier, trading bots, and automation. No API key required. Python Flask. MIT License.
-- [rust-lang-ua/rustcamp](https://github.com/rust-lang-ua/rustcamp) (1 day ago) - Getting ready for prod
-- [Jamie098/ferrosonic-ng](https://github.com/Jamie098/ferrosonic-ng) (1 day ago) - A terminal-based Subsonic music client written in Rust, featuring bit-perfect audio playback, gapless transitions, and full desktop integration.
-- [jaidaken/ferrosonic](https://github.com/jaidaken/ferrosonic) (1 day ago) - 
-- [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) (1 day ago) - A self-hosted library for your ebooks, comics, and audiobooks
+- [0xramm/Indian-Stock-Market-API](https://github.com/0xramm/Indian-Stock-Market-API) (1 day ago) - Free REST API for NSE and BSE Indian stock market data. Real-time stock prices, company info, and market data via Yahoo Finance. Perfect for n8n, Zapier, trading bots, and automation. No API key required. Python Flask. MIT License.
+- [rust-lang-ua/rustcamp](https://github.com/rust-lang-ua/rustcamp) (2 days ago) - Getting ready for prod
+- [Jamie098/ferrosonic-ng](https://github.com/Jamie098/ferrosonic-ng) (2 days ago) - A terminal-based Subsonic music client written in Rust, featuring bit-perfect audio playback, gapless transitions, and full desktop integration.
+- [jaidaken/ferrosonic](https://github.com/jaidaken/ferrosonic) (2 days ago) - 
+- [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) (2 days ago) - A self-hosted library for your ebooks, comics, and audiobooks
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
