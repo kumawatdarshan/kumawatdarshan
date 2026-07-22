@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) (today) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) (today) - The most intelligent agent harness for code
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) (1 day ago) - Roll your own tracker!
 - [michelhe/rustboyadvance-ng](https://github.com/michelhe/rustboyadvance-ng) (1 day ago) - RustBoyAdvance-NG is a Nintendo™ Game Boy Advance emulator and debugger, written in the rust programming language.
 - [0xramm/Indian-Stock-Market-API](https://github.com/0xramm/Indian-Stock-Market-API) (2 days ago) - Free REST API for NSE and BSE Indian stock market data. Real-time stock prices, company info, and market data via Yahoo Finance. Perfect for n8n, Zapier, trading bots, and automation. No API key required. Python Flask. MIT License.
-- [rust-lang-ua/rustcamp](https://github.com/rust-lang-ua/rustcamp) (3 days ago) - Getting ready for prod
-- [Jamie098/ferrosonic-ng](https://github.com/Jamie098/ferrosonic-ng) (3 days ago) - A terminal-based Subsonic music client written in Rust, featuring bit-perfect audio playback, gapless transitions, and full desktop integration.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
