@@ -11,8 +11,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (2 days ago)
-- [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (6 days ago)
+- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (3 days ago)
+- [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (1 week ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (5 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [matoous/strcase.hx](https://github.com/matoous/strcase.hx) (today) - Helix plugin for string case conversions.
-- [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) (today) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) (today) - The most intelligent agent harness for code
-- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) (1 day ago) - Roll your own tracker!
-- [michelhe/rustboyadvance-ng](https://github.com/michelhe/rustboyadvance-ng) (1 day ago) - RustBoyAdvance-NG is a Nintendo™ Game Boy Advance emulator and debugger, written in the rust programming language.
+- [matoous/strcase.hx](https://github.com/matoous/strcase.hx) (1 day ago) - Helix plugin for string case conversions.
+- [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) (1 day ago) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) (1 day ago) - The most intelligent agent harness for code
+- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) (2 days ago) - Roll your own tracker!
+- [michelhe/rustboyadvance-ng](https://github.com/michelhe/rustboyadvance-ng) (2 days ago) - RustBoyAdvance-NG is a Nintendo™ Game Boy Advance emulator and debugger, written in the rust programming language.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
