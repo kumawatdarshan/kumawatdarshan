@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [emilk/egui](https://github.com/emilk/egui) (today) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [tokio-rs/toasty](https://github.com/tokio-rs/toasty) (today) - An async ORM for Rust
 - [matoous/strcase.hx](https://github.com/matoous/strcase.hx) (1 day ago) - Helix plugin for string case conversions.
 - [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) (1 day ago) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) (1 day ago) - The most intelligent agent harness for code
-- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) (2 days ago) - Roll your own tracker!
-- [michelhe/rustboyadvance-ng](https://github.com/michelhe/rustboyadvance-ng) (2 days ago) - RustBoyAdvance-NG is a Nintendo™ Game Boy Advance emulator and debugger, written in the rust programming language.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
