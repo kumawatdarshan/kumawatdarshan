@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (3 days ago)
+- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (4 days ago)
 - [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (1 week ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [emilk/egui](https://github.com/emilk/egui) (today) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-- [tokio-rs/toasty](https://github.com/tokio-rs/toasty) (today) - An async ORM for Rust
-- [matoous/strcase.hx](https://github.com/matoous/strcase.hx) (1 day ago) - Helix plugin for string case conversions.
-- [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) (1 day ago) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) (1 day ago) - The most intelligent agent harness for code
+- [emilk/egui](https://github.com/emilk/egui) (1 day ago) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [tokio-rs/toasty](https://github.com/tokio-rs/toasty) (1 day ago) - An async ORM for Rust
+- [matoous/strcase.hx](https://github.com/matoous/strcase.hx) (2 days ago) - Helix plugin for string case conversions.
+- [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) (2 days ago) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) (2 days ago) - The most intelligent agent harness for code
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
