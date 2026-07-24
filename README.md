@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) (today) - The official Rust SDK for the Model Context Protocol
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) (today) - A TOML toolkit written in Rust
 - [metabrainz/bookbrainz-site](https://github.com/metabrainz/bookbrainz-site) (today) - BookBrainz website, written in node.js.
 - [getzola/zola](https://github.com/getzola/zola) (today) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [emilk/egui](https://github.com/emilk/egui) (1 day ago) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-- [tokio-rs/toasty](https://github.com/tokio-rs/toasty) (1 day ago) - An async ORM for Rust
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
