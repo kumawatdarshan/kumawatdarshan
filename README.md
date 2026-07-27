@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [jac3km4/red4ext-rs](https://github.com/jac3km4/red4ext-rs) (today) - Automagical Rust binding to RED4ext
 - [pop-os/cosmic-viewer](https://github.com/pop-os/cosmic-viewer) (today) - COSMIC Image Viewer
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) (3 days ago) - The official Rust SDK for the Model Context Protocol
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) (3 days ago) - A TOML toolkit written in Rust
 - [metabrainz/bookbrainz-site](https://github.com/metabrainz/bookbrainz-site) (3 days ago) - BookBrainz website, written in node.js.
-- [getzola/zola](https://github.com/getzola/zola) (3 days ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
