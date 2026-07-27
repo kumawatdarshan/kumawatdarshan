@@ -11,11 +11,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (6 days ago)
+- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (1 week ago)
 - [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (1 week ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (5 months ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) (2 days ago) - The official Rust SDK for the Model Context Protocol
-- [tamasfe/taplo](https://github.com/tamasfe/taplo) (2 days ago) - A TOML toolkit written in Rust
-- [metabrainz/bookbrainz-site](https://github.com/metabrainz/bookbrainz-site) (2 days ago) - BookBrainz website, written in node.js.
-- [getzola/zola](https://github.com/getzola/zola) (2 days ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [emilk/egui](https://github.com/emilk/egui) (3 days ago) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) (3 days ago) - The official Rust SDK for the Model Context Protocol
+- [tamasfe/taplo](https://github.com/tamasfe/taplo) (3 days ago) - A TOML toolkit written in Rust
+- [metabrainz/bookbrainz-site](https://github.com/metabrainz/bookbrainz-site) (3 days ago) - BookBrainz website, written in node.js.
+- [getzola/zola](https://github.com/getzola/zola) (3 days ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [emilk/egui](https://github.com/emilk/egui) (4 days ago) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
