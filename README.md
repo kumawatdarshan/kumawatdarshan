@@ -14,7 +14,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (1 week ago)
 - [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (1 week ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (1 month ago)
+- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 months ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (6 months ago)
 
 #### 🌱 My latest projects
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [jac3km4/red4ext-rs](https://github.com/jac3km4/red4ext-rs) (today) - Automagical Rust binding to RED4ext
-- [pop-os/cosmic-viewer](https://github.com/pop-os/cosmic-viewer) (today) - COSMIC Image Viewer
-- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) (3 days ago) - The official Rust SDK for the Model Context Protocol
-- [tamasfe/taplo](https://github.com/tamasfe/taplo) (3 days ago) - A TOML toolkit written in Rust
-- [metabrainz/bookbrainz-site](https://github.com/metabrainz/bookbrainz-site) (3 days ago) - BookBrainz website, written in node.js.
+- [jac3km4/red4ext-rs](https://github.com/jac3km4/red4ext-rs) (1 day ago) - Automagical Rust binding to RED4ext
+- [pop-os/cosmic-viewer](https://github.com/pop-os/cosmic-viewer) (1 day ago) - COSMIC Image Viewer
+- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) (4 days ago) - The official Rust SDK for the Model Context Protocol
+- [tamasfe/taplo](https://github.com/tamasfe/taplo) (4 days ago) - A TOML toolkit written in Rust
+- [metabrainz/bookbrainz-site](https://github.com/metabrainz/bookbrainz-site) (4 days ago) - BookBrainz website, written in node.js.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
