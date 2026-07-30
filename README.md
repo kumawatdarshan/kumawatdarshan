@@ -12,7 +12,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (1 week ago)
-- [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (1 week ago)
+- [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (2 weeks ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
 - [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 months ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (6 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [mitsuhiko/insta](https://github.com/mitsuhiko/insta) (today) - A snapshot testing library for rust
-- [nik-rev/derive-aliases](https://github.com/nik-rev/derive-aliases) (today) - #[derive] aliases
-- [tim-harding/soa-rs](https://github.com/tim-harding/soa-rs) (1 day ago) - An SoA library for Rust
-- [jac3km4/red4ext-rs](https://github.com/jac3km4/red4ext-rs) (2 days ago) - Automagical Rust binding to RED4ext
-- [pop-os/cosmic-viewer](https://github.com/pop-os/cosmic-viewer) (2 days ago) - COSMIC Image Viewer
+- [mitsuhiko/insta](https://github.com/mitsuhiko/insta) (1 day ago) - A snapshot testing library for rust
+- [nik-rev/derive-aliases](https://github.com/nik-rev/derive-aliases) (1 day ago) - #[derive] aliases
+- [tim-harding/soa-rs](https://github.com/tim-harding/soa-rs) (2 days ago) - An SoA library for Rust
+- [jac3km4/red4ext-rs](https://github.com/jac3km4/red4ext-rs) (3 days ago) - Automagical Rust binding to RED4ext
+- [pop-os/cosmic-viewer](https://github.com/pop-os/cosmic-viewer) (3 days ago) - COSMIC Image Viewer
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
