@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [bytemeadow/godot-bevy](https://github.com/bytemeadow/godot-bevy) (today) - Bring the power of Bevy to your Godot projects
-- [horacehoff/keel](https://github.com/horacehoff/keel) (today) - A fast, statically-typed interpreted language that blends Rust-like syntax with Python&#39;s ease of use. 2-10x faster than Python, with type inference, monomorphization, and constant folding.
-- [mitsuhiko/insta](https://github.com/mitsuhiko/insta) (2 days ago) - A snapshot testing library for rust
-- [nik-rev/derive-aliases](https://github.com/nik-rev/derive-aliases) (2 days ago) - #[derive] aliases
-- [tim-harding/soa-rs](https://github.com/tim-harding/soa-rs) (3 days ago) - An SoA library for Rust
+- [samox73/paletteer](https://github.com/samox73/paletteer) (today) - 
+- [xerj-org/xerj](https://github.com/xerj-org/xerj) (today) - 
+- [huggingface/candle](https://github.com/huggingface/candle) (today) - Minimalist ML framework for Rust
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) (today) - A browser that runs directly inside your existing terminal
+- [espanso/espanso](https://github.com/espanso/espanso) (today) - A Privacy-first, Cross-platform Text Expander written in Rust
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
