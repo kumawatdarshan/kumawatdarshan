@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) (today) - Customisable Wayland GTK4 bar written in Rust.
 - [wilfredinni/noodle](https://github.com/wilfredinni/noodle) (today) - A delicious REST client for your terminal
 - [ayanchavand/Smyx](https://github.com/ayanchavand/Smyx) (today) - Navidrome player for the terminal. With reactive themes.
 - [samox73/paletteer](https://github.com/samox73/paletteer) (1 day ago) - 
 - [xerj-org/xerj](https://github.com/xerj-org/xerj) (1 day ago) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
-- [huggingface/candle](https://github.com/huggingface/candle) (1 day ago) - Minimalist ML framework for Rust
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
