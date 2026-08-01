@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (today)
+- [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (1 day ago)
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (1 week ago)
 - [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (2 weeks ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [samox73/paletteer](https://github.com/samox73/paletteer) (today) - 
-- [xerj-org/xerj](https://github.com/xerj-org/xerj) (today) - 
-- [huggingface/candle](https://github.com/huggingface/candle) (today) - Minimalist ML framework for Rust
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) (today) - A browser that runs directly inside your existing terminal
-- [espanso/espanso](https://github.com/espanso/espanso) (today) - A Privacy-first, Cross-platform Text Expander written in Rust
+- [samox73/paletteer](https://github.com/samox73/paletteer) (1 day ago) - 
+- [xerj-org/xerj](https://github.com/xerj-org/xerj) (1 day ago) - 
+- [huggingface/candle](https://github.com/huggingface/candle) (1 day ago) - Minimalist ML framework for Rust
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) (1 day ago) - A browser that runs directly inside your existing terminal
+- [espanso/espanso](https://github.com/espanso/espanso) (1 day ago) - A Privacy-first, Cross-platform Text Expander written in Rust
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
