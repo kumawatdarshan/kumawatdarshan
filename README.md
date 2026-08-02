@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (1 day ago)
+- [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (2 days ago)
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (1 week ago)
 - [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (2 weeks ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) (today) - Customisable Wayland GTK4 bar written in Rust.
-- [wilfredinni/noodle](https://github.com/wilfredinni/noodle) (today) - A delicious REST client for your terminal
-- [ayanchavand/Smyx](https://github.com/ayanchavand/Smyx) (today) - Navidrome player for the terminal. With reactive themes.
-- [samox73/paletteer](https://github.com/samox73/paletteer) (1 day ago) - 
-- [xerj-org/xerj](https://github.com/xerj-org/xerj) (1 day ago) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
+- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) (1 day ago) - Customisable Wayland GTK4 bar written in Rust.
+- [wilfredinni/noodle](https://github.com/wilfredinni/noodle) (1 day ago) - A delicious REST client for your terminal
+- [ayanchavand/Smyx](https://github.com/ayanchavand/Smyx) (1 day ago) - Navidrome player for the terminal. With reactive themes.
+- [samox73/paletteer](https://github.com/samox73/paletteer) (2 days ago) - 
+- [xerj-org/xerj](https://github.com/xerj-org/xerj) (2 days ago) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
