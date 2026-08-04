@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [cosmos/cosmjs](https://github.com/cosmos/cosmjs) (today) - The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.
 - [TheBevyFlock/bevy_cli](https://github.com/TheBevyFlock/bevy_cli) (1 day ago) - A Bevy CLI tool and linter.
 - [swagtop/bevy-flake](https://github.com/swagtop/bevy-flake) (1 day ago) - A flake for development and distribution of Bevy programs.
 - [jamesfebin/ImpatientProgrammerBevyRust](https://github.com/jamesfebin/ImpatientProgrammerBevyRust) (1 day ago) - The Impatient Programmer&#39;s Guide to Bevy and Rust : Build a 2D Game from Scratch
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) (2 days ago) - A datetime library for Rust that encourages you to jump into the pit of success.
-- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) (3 days ago) - Customisable Wayland GTK4 bar written in Rust.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
