@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (today)
+- [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (1 day ago)
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (2 weeks ago)
 - [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (2 weeks ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) (today) - Parseable is an open source, unified infrastructure observability platform built in Rust on a data lake architecture. It tracks logs, metrics, traces, and events across apps, agents, and systems, reducing storage costs by up to 90% through columnar telemetry compression.
-- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) (today) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-- [cosmos/cosmjs](https://github.com/cosmos/cosmjs) (today) - The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.
-- [TheBevyFlock/bevy_cli](https://github.com/TheBevyFlock/bevy_cli) (1 day ago) - A Bevy CLI tool and linter.
-- [swagtop/bevy-flake](https://github.com/swagtop/bevy-flake) (1 day ago) - A flake for development and distribution of Bevy programs.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) (1 day ago) - Parseable is an open source, unified infrastructure observability platform built in Rust on a data lake architecture. It tracks logs, metrics, traces, and events across apps, agents, and systems, reducing storage costs by up to 90% through columnar telemetry compression.
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) (1 day ago) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [cosmos/cosmjs](https://github.com/cosmos/cosmjs) (1 day ago) - The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.
+- [TheBevyFlock/bevy_cli](https://github.com/TheBevyFlock/bevy_cli) (2 days ago) - A Bevy CLI tool and linter.
+- [swagtop/bevy-flake](https://github.com/swagtop/bevy-flake) (2 days ago) - A flake for development and distribution of Bevy programs.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
