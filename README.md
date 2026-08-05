@@ -11,27 +11,27 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
+- [kumawatdarshan/bevy_lint-flake](https://github.com/kumawatdarshan/bevy_lint-flake) - Simple flake for bevy lint (today)
 - [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (1 day ago)
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (2 weeks ago)
 - [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (2 weeks ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
-- [kumawatdarshan/email-newsletter-z2p](https://github.com/kumawatdarshan/email-newsletter-z2p) - Email Newsletter Service (2 months ago)
 
 #### 🌱 My latest projects
 
+- [kumawatdarshan/bevy_lint-flake](https://github.com/kumawatdarshan/bevy_lint-flake) - Simple flake for bevy lint
 - [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server.
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api
 - [kumawatdarshan/dabber](https://github.com/kumawatdarshan/dabber) - dab dab.
-- [kumawatdarshan/aoc-2025](https://github.com/kumawatdarshan/aoc-2025) - 
 
 #### ⭐ Recent Stars
 
+- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) (today) - What&#39;s uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
+- [paddor/zrip](https://github.com/paddor/zrip) (today) - Fast, memory-safe Rust zstd codec with all-level decode, -8..4 encode, and dictionary training.
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) (1 day ago) - Parseable is an open source, unified infrastructure observability platform built in Rust on a data lake architecture. It tracks logs, metrics, traces, and events across apps, agents, and systems, reducing storage costs by up to 90% through columnar telemetry compression.
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) (1 day ago) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [cosmos/cosmjs](https://github.com/cosmos/cosmjs) (1 day ago) - The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.
-- [TheBevyFlock/bevy_cli](https://github.com/TheBevyFlock/bevy_cli) (2 days ago) - A Bevy CLI tool and linter.
-- [swagtop/bevy-flake](https://github.com/swagtop/bevy-flake) (2 days ago) - A flake for development and distribution of Bevy programs.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
