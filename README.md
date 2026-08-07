@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [nolantait/bevy-starter](https://github.com/nolantait/bevy-starter) (today) - A minimalist starter for bevy and rust
+- [simgine/bevy_enhanced_input](https://github.com/simgine/bevy_enhanced_input) (today) - Input manager for Bevy.
+- [kryoseu/WyrmRSS](https://github.com/kryoseu/WyrmRSS) (today) - A self-hosted RSS reader and aggregator, also available as a desktop app. 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (today) - The open curriculum for learning web development
 - [redbadger/crux](https://github.com/redbadger/crux) (1 day ago) - Cross-platform app development in Rust
-- [replyre/job-hunter](https://github.com/replyre/job-hunter) (1 day ago) - 
-- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) (2 days ago) - What&#39;s uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
-- [paddor/zrip](https://github.com/paddor/zrip) (2 days ago) - Fast, memory-safe Rust zstd codec with all-level decode, -8..4 encode, and dictionary training.
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) (3 days ago) - Parseable is an open source, unified infrastructure observability platform built in Rust on a data lake architecture. It tracks logs, metrics, traces, and events across apps, agents, and systems, reducing storage costs by up to 90% through columnar telemetry compression.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
