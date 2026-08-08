@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [axboe/liburing](https://github.com/axboe/liburing) (today) - Library providing helpers for the Linux kernel io_uring support
-- [gxanshu/postcard](https://github.com/gxanshu/postcard) (1 day ago) - A modern email client for GNOME
-- [nolantait/bevy-starter](https://github.com/nolantait/bevy-starter) (1 day ago) - A minimalist starter for bevy and rust
-- [simgine/bevy_enhanced_input](https://github.com/simgine/bevy_enhanced_input) (1 day ago) - Input manager for Bevy.
-- [kryoseu/WyrmRSS](https://github.com/kryoseu/WyrmRSS) (1 day ago) - A self-hosted RSS reader and aggregator, also available as a desktop app. 
+- [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) (today) - Download &#39;TIDAL&#39; Music On Windows/Linux/MacOs (PYTHON/C#)
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) (today) - Fast, collaborative live terminal sharing over the web
+- [Ralith/hecs](https://github.com/Ralith/hecs) (today) - A handy ECS
+- [Treeniks/chameleos](https://github.com/Treeniks/chameleos) (today) - Screen annotation tool for niri and Hyprland
+- [greyxp1/chameleos](https://github.com/greyxp1/chameleos) (today) - Screen annotation tool for niri and Hyprland
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
