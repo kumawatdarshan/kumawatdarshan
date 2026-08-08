@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [axboe/liburing](https://github.com/axboe/liburing) (today) - Library providing helpers for the Linux kernel io_uring support
 - [gxanshu/postcard](https://github.com/gxanshu/postcard) (1 day ago) - A modern email client for GNOME
 - [nolantait/bevy-starter](https://github.com/nolantait/bevy-starter) (1 day ago) - A minimalist starter for bevy and rust
 - [simgine/bevy_enhanced_input](https://github.com/simgine/bevy_enhanced_input) (1 day ago) - Input manager for Bevy.
 - [kryoseu/WyrmRSS](https://github.com/kryoseu/WyrmRSS) (1 day ago) - A self-hosted RSS reader and aggregator, also available as a desktop app. 
-- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (1 day ago) - The open curriculum for learning web development
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
