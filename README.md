@@ -11,8 +11,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/bevy_lint-flake](https://github.com/kumawatdarshan/bevy_lint-flake) - Simple flake for bevy lint (3 days ago)
-- [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (4 days ago)
+- [kumawatdarshan/bevy_lint-flake](https://github.com/kumawatdarshan/bevy_lint-flake) - Simple flake for bevy lint (4 days ago)
+- [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (5 days ago)
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (2 weeks ago)
 - [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (3 weeks ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (1 month ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) (today) - Download &#39;TIDAL&#39; Music On Windows/Linux/MacOs (PYTHON/C#)
-- [ekzhang/sshx](https://github.com/ekzhang/sshx) (today) - Fast, collaborative live terminal sharing over the web
-- [Ralith/hecs](https://github.com/Ralith/hecs) (today) - A handy ECS
-- [Treeniks/chameleos](https://github.com/Treeniks/chameleos) (today) - Screen annotation tool for niri and Hyprland
-- [greyxp1/chameleos](https://github.com/greyxp1/chameleos) (today) - Screen annotation tool for niri and Hyprland
+- [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) (1 day ago) - Download &#39;TIDAL&#39; Music On Windows/Linux/MacOs (PYTHON/C#)
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) (1 day ago) - Fast, collaborative live terminal sharing over the web
+- [Ralith/hecs](https://github.com/Ralith/hecs) (1 day ago) - A handy ECS
+- [Treeniks/chameleos](https://github.com/Treeniks/chameleos) (1 day ago) - Screen annotation tool for niri and Hyprland
+- [greyxp1/chameleos](https://github.com/greyxp1/chameleos) (1 day ago) - Screen annotation tool for niri and Hyprland
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
