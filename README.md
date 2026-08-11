@@ -31,7 +31,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) (3 days ago) - Fast, collaborative live terminal sharing over the web
 - [Ralith/hecs](https://github.com/Ralith/hecs) (3 days ago) - A handy ECS
 - [Treeniks/chameleos](https://github.com/Treeniks/chameleos) (3 days ago) - Screen annotation tool for niri and Hyprland
-- [greyxp1/vellum](https://github.com/greyxp1/vellum) (3 days ago) - Screen annotation tool for niri
+- [greyxp1/vellum](https://github.com/greyxp1/vellum) (3 days ago) - Wayland native screen annotation tool
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
