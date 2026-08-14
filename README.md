@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) (5 days ago) - Download &#39;TIDAL&#39; Music On Windows/Linux/MacOs (PYTHON/C#)
-- [ekzhang/sshx](https://github.com/ekzhang/sshx) (5 days ago) - Fast, collaborative live terminal sharing over the web
-- [Ralith/hecs](https://github.com/Ralith/hecs) (5 days ago) - A handy ECS
-- [Treeniks/chameleos](https://github.com/Treeniks/chameleos) (5 days ago) - Screen annotation tool for niri and Hyprland
-- [greyxp1/vellum](https://github.com/greyxp1/vellum) (5 days ago) - Wayland native screen annotation tool
+- [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) (6 days ago) - Download &#39;TIDAL&#39; Music On Windows/Linux/MacOs (PYTHON/C#)
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) (6 days ago) - Fast, collaborative live terminal sharing over the web
+- [Ralith/hecs](https://github.com/Ralith/hecs) (6 days ago) - A handy ECS
+- [Treeniks/chameleos](https://github.com/Treeniks/chameleos) (6 days ago) - Screen annotation tool for niri and Hyprland
+- [greyxp1/vellum](https://github.com/greyxp1/vellum) (6 days ago) - Wayland native screen annotation tool
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
