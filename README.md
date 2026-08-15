@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [darkly-art/darkly](https://github.com/darkly-art/darkly) (today) - Forbidden Editor for Artists 😈
 - [JCRYDER3/andhbhakt](https://github.com/JCRYDER3/andhbhakt) (1 day ago) - CAG vs PIB govt govt accountabilty website
 - [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (1 day ago) - Voice-to-text with push-to-talk for Wayland compositors
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) (1 day ago) - A cross-platform, safe, pure-Rust graphics API.
 - [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) (1 week ago) - Download &#39;TIDAL&#39; Music On Windows/Linux/MacOs (PYTHON/C#)
-- [ekzhang/sshx](https://github.com/ekzhang/sshx) (1 week ago) - Fast, collaborative live terminal sharing over the web
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
