@@ -13,7 +13,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 - [kumawatdarshan/bevy_lint-flake](https://github.com/kumawatdarshan/bevy_lint-flake) - Simple flake for bevy lint (1 week ago)
 - [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (1 week ago)
-- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (3 weeks ago)
+- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (4 weeks ago)
 - [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (1 month ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (2 months ago)
 
@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [darkly-art/darkly](https://github.com/darkly-art/darkly) (1 day ago) - Forbidden Editor for Artists 😈
-- [JCRYDER3/andhbhakt](https://github.com/JCRYDER3/andhbhakt) (2 days ago) - CAG vs PIB govt govt accountabilty website
-- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (2 days ago) - Voice-to-text with push-to-talk for Wayland compositors
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) (2 days ago) - A cross-platform, safe, pure-Rust graphics API.
+- [darkly-art/darkly](https://github.com/darkly-art/darkly) (2 days ago) - Forbidden Editor for Artists 😈
+- [JCRYDER3/andhbhakt](https://github.com/JCRYDER3/andhbhakt) (3 days ago) - CAG vs PIB govt govt accountabilty website
+- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (3 days ago) - Voice-to-text with push-to-talk for Wayland compositors
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) (3 days ago) - A cross-platform, safe, pure-Rust graphics API.
 - [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) (1 week ago) - Download &#39;TIDAL&#39; Music On Windows/Linux/MacOs (PYTHON/C#)
 
 <div>
