@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [ugzv/ublockdnsclient](https://github.com/ugzv/ublockdnsclient) (today) - Cross-platform system DNS client for uBlockDNS with device wide ad and tracker blocking and real time filter updates.
 - [utensils/comfyui-nix](https://github.com/utensils/comfyui-nix) (2 days ago) - A slightly opinionated Nix flake for ComfyUI with curated custom nodes. Supports macOS (Apple Silicon) and Linux with CUDA.
 - [darkly-art/darkly](https://github.com/darkly-art/darkly) (5 days ago) - Forbidden Editor for Artists 😈
 - [JCRYDER3/andhbhakt](https://github.com/JCRYDER3/andhbhakt) (6 days ago) - CAG vs PIB govt govt accountabilty website
 - [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (6 days ago) - Voice-to-text with push-to-talk for Wayland compositors
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) (6 days ago) - A cross-platform, safe, pure-Rust graphics API.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
