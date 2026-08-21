@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) (today) - cliamp - Terminal music player inspired by winamp 
 - [ugzv/ublockdnsclient](https://github.com/ugzv/ublockdnsclient) (1 day ago) - Cross-platform system DNS client for uBlockDNS with device wide ad and tracker blocking and real time filter updates.
 - [utensils/comfyui-nix](https://github.com/utensils/comfyui-nix) (3 days ago) - A slightly opinionated Nix flake for ComfyUI with curated custom nodes. Supports macOS (Apple Silicon) and Linux with CUDA.
 - [darkly-art/darkly](https://github.com/darkly-art/darkly) (6 days ago) - Forbidden Editor for Artists 😈
 - [JCRYDER3/andhbhakt](https://github.com/JCRYDER3/andhbhakt) (1 week ago) - CAG vs PIB govt govt accountabilty website
-- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (1 week ago) - Voice-to-text with push-to-talk for Wayland compositors
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
