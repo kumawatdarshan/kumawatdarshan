@@ -27,8 +27,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) (5 days ago) - cliamp - Terminal music player inspired by winamp 
-- [ugzv/ublockdnsclient](https://github.com/ugzv/ublockdnsclient) (6 days ago) - Cross-platform system DNS client for uBlockDNS with device wide ad and tracker blocking and real time filter updates.
+- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) (6 days ago) - cliamp - Terminal music player inspired by winamp 
+- [ugzv/ublockdnsclient](https://github.com/ugzv/ublockdnsclient) (1 week ago) - Cross-platform system DNS client for uBlockDNS with device wide ad and tracker blocking and real time filter updates.
 - [utensils/comfyui-nix](https://github.com/utensils/comfyui-nix) (1 week ago) - A slightly opinionated Nix flake for ComfyUI with curated custom nodes. Supports macOS (Apple Silicon) and Linux with CUDA.
 - [darkly-art/darkly](https://github.com/darkly-art/darkly) (1 week ago) - Forbidden Editor for Artists 😈
 - [JCRYDER3/andhbhakt](https://github.com/JCRYDER3/andhbhakt) (1 week ago) - CAG vs PIB govt govt accountabilty website
