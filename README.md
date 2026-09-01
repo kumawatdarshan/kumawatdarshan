@@ -12,7 +12,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 
 - [kumawatdarshan/bevy_lint-flake](https://github.com/kumawatdarshan/bevy_lint-flake) - Simple flake for bevy lint (3 weeks ago)
-- [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (3 weeks ago)
+- [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (4 weeks ago)
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (1 month ago)
 - [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (1 month ago)
 - [kumawatdarshan/assignment-11-june](https://github.com/kumawatdarshan/assignment-11-june) - task api (2 months ago)
@@ -29,7 +29,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) (1 week ago) - cliamp - Terminal music player inspired by winamp 
 - [ugzv/ublockdnsclient](https://github.com/ugzv/ublockdnsclient) (1 week ago) - Cross-platform system DNS client for uBlockDNS with device wide ad and tracker blocking and real time filter updates.
-- [utensils/comfyui-nix](https://github.com/utensils/comfyui-nix) (1 week ago) - A slightly opinionated Nix flake for ComfyUI with curated custom nodes. Supports macOS (Apple Silicon) and Linux with CUDA.
+- [utensils/comfyui-nix](https://github.com/utensils/comfyui-nix) (2 weeks ago) - A slightly opinionated Nix flake for ComfyUI with curated custom nodes. Supports macOS (Apple Silicon) and Linux with CUDA.
 - [darkly-art/darkly](https://github.com/darkly-art/darkly) (2 weeks ago) - Forbidden Editor for Artists 😈
 - [JCRYDER3/andhbhakt](https://github.com/JCRYDER3/andhbhakt) (2 weeks ago) - CAG vs PIB govt govt accountabilty website
 
