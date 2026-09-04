@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/bevy_lint-flake](https://github.com/kumawatdarshan/bevy_lint-flake) - Simple flake for bevy lint (4 weeks ago)
+- [kumawatdarshan/bevy_lint-flake](https://github.com/kumawatdarshan/bevy_lint-flake) - Simple flake for bevy lint (1 month ago)
 - [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (1 month ago)
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (1 month ago)
 - [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (1 month ago)
@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [MerrimanInd/tree-sitter-dbc](https://github.com/MerrimanInd/tree-sitter-dbc) (today) - A CAN DBC grammar for tree-sitter
-- [RiseFields/tree-sitter-dbc](https://github.com/RiseFields/tree-sitter-dbc) (today) - Tree-sitter parser for DBC files
-- [la10736/rstest](https://github.com/la10736/rstest) (1 day ago) - Fixture-based test framework for Rust
-- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) (1 week ago) - cliamp - Terminal music player inspired by winamp 
+- [MerrimanInd/tree-sitter-dbc](https://github.com/MerrimanInd/tree-sitter-dbc) (1 day ago) - A CAN DBC grammar for tree-sitter
+- [RiseFields/tree-sitter-dbc](https://github.com/RiseFields/tree-sitter-dbc) (1 day ago) - Tree-sitter parser for DBC files
+- [la10736/rstest](https://github.com/la10736/rstest) (2 days ago) - Fixture-based test framework for Rust
+- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) (2 weeks ago) - cliamp - Terminal music player inspired by winamp 
 - [ugzv/ublockdnsclient](https://github.com/ugzv/ublockdnsclient) (2 weeks ago) - Cross-platform system DNS client for uBlockDNS with device wide ad and tracker blocking and real time filter updates.
 
 <div>
