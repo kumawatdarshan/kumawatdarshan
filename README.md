@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [gj1118/helix](https://github.com/gj1118/helix) (today) - A post-modern modal text editor.
-- [MerrimanInd/tree-sitter-dbc](https://github.com/MerrimanInd/tree-sitter-dbc) (1 day ago) - A CAN DBC grammar for tree-sitter
-- [RiseFields/tree-sitter-dbc](https://github.com/RiseFields/tree-sitter-dbc) (1 day ago) - Tree-sitter parser for DBC files
-- [la10736/rstest](https://github.com/la10736/rstest) (2 days ago) - Fixture-based test framework for Rust
+- [gj1118/helix](https://github.com/gj1118/helix) (1 day ago) - A post-modern modal text editor.
+- [MerrimanInd/tree-sitter-dbc](https://github.com/MerrimanInd/tree-sitter-dbc) (2 days ago) - A CAN DBC grammar for tree-sitter
+- [RiseFields/tree-sitter-dbc](https://github.com/RiseFields/tree-sitter-dbc) (2 days ago) - Tree-sitter parser for DBC files
+- [la10736/rstest](https://github.com/la10736/rstest) (3 days ago) - Fixture-based test framework for Rust
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) (2 weeks ago) - cliamp - Terminal music player inspired by winamp 
 
 <div>
