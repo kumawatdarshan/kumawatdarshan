@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (today)
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 day ago)
 - [kumawatdarshan/bevy_lint-flake](https://github.com/kumawatdarshan/bevy_lint-flake) - Simple flake for bevy lint (1 month ago)
 - [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (1 month ago)
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (1 month ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [pawarherschel/nixos-config](https://github.com/pawarherschel/nixos-config) (today) - 
-- [gj1118/helix](https://github.com/gj1118/helix) (4 days ago) - A post-modern modal text editor.
-- [MerrimanInd/tree-sitter-dbc](https://github.com/MerrimanInd/tree-sitter-dbc) (5 days ago) - A CAN DBC grammar for tree-sitter
-- [RiseFields/tree-sitter-dbc](https://github.com/RiseFields/tree-sitter-dbc) (5 days ago) - Tree-sitter parser for DBC files
-- [la10736/rstest](https://github.com/la10736/rstest) (6 days ago) - Fixture-based test framework for Rust
+- [pawarherschel/nixos-config](https://github.com/pawarherschel/nixos-config) (1 day ago) - 
+- [gj1118/helix](https://github.com/gj1118/helix) (5 days ago) - A post-modern modal text editor.
+- [MerrimanInd/tree-sitter-dbc](https://github.com/MerrimanInd/tree-sitter-dbc) (6 days ago) - A CAN DBC grammar for tree-sitter
+- [RiseFields/tree-sitter-dbc](https://github.com/RiseFields/tree-sitter-dbc) (6 days ago) - Tree-sitter parser for DBC files
+- [la10736/rstest](https://github.com/la10736/rstest) (1 week ago) - Fixture-based test framework for Rust
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
