@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (2 days ago)
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (3 days ago)
 - [kumawatdarshan/bevy_lint-flake](https://github.com/kumawatdarshan/bevy_lint-flake) - Simple flake for bevy lint (1 month ago)
 - [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (1 month ago)
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (1 month ago)
@@ -27,9 +27,9 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) (today) - Rust implementation of the wayland protocol (client and server).
-- [pawarherschel/nixos-config](https://github.com/pawarherschel/nixos-config) (2 days ago) - 
-- [gj1118/helix](https://github.com/gj1118/helix) (6 days ago) - A post-modern modal text editor.
+- [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) (1 day ago) - Rust implementation of the wayland protocol (client and server).
+- [pawarherschel/nixos-config](https://github.com/pawarherschel/nixos-config) (3 days ago) - 
+- [gj1118/helix](https://github.com/gj1118/helix) (1 week ago) - A post-modern modal text editor.
 - [MerrimanInd/tree-sitter-dbc](https://github.com/MerrimanInd/tree-sitter-dbc) (1 week ago) - A CAN DBC grammar for tree-sitter
 - [RiseFields/tree-sitter-dbc](https://github.com/RiseFields/tree-sitter-dbc) (1 week ago) - Tree-sitter parser for DBC files
 
