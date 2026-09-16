@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
+- [t1ktakdev/niri-pip](https://github.com/t1ktakdev/niri-pip) (today) - Picture-in-Picture and sticky-window controller for the Niri Wayland compositor
+- [noctuid/tdrop](https://github.com/noctuid/tdrop) (today) - A Glorified WM-Independent Dropdown Creator
 - [bytebeamio/sessions](https://github.com/bytebeamio/sessions) (1 day ago) - 
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) (6 days ago) - Rust implementation of the wayland protocol (client and server).
 - [pawarherschel/nixos-config](https://github.com/pawarherschel/nixos-config) (1 week ago) - 
-- [gj1118/helix](https://github.com/gj1118/helix) (1 week ago) - A post-modern modal text editor.
-- [MerrimanInd/tree-sitter-dbc](https://github.com/MerrimanInd/tree-sitter-dbc) (1 week ago) - A CAN DBC grammar for tree-sitter
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
