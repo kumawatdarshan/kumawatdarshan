@@ -27,10 +27,10 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [t1ktakdev/niri-pip](https://github.com/t1ktakdev/niri-pip) (today) - Picture-in-Picture and sticky-window controller for the Niri Wayland compositor
-- [noctuid/tdrop](https://github.com/noctuid/tdrop) (today) - A Glorified WM-Independent Dropdown Creator
-- [bytebeamio/sessions](https://github.com/bytebeamio/sessions) (1 day ago) - 
-- [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) (6 days ago) - Rust implementation of the wayland protocol (client and server).
+- [t1ktakdev/niri-pip](https://github.com/t1ktakdev/niri-pip) (1 day ago) - Picture-in-Picture and sticky-window controller for the Niri Wayland compositor
+- [noctuid/tdrop](https://github.com/noctuid/tdrop) (1 day ago) - A Glorified WM-Independent Dropdown Creator
+- [bytebeamio/sessions](https://github.com/bytebeamio/sessions) (2 days ago) - 
+- [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) (1 week ago) - Rust implementation of the wayland protocol (client and server).
 - [pawarherschel/nixos-config](https://github.com/pawarherschel/nixos-config) (1 week ago) - 
 
 <div>
