@@ -11,7 +11,7 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 #### 👷 What am I working on:
 
 
-- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (3 weeks ago)
+- [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 month ago)
 - [kumawatdarshan/bevy_lint-flake](https://github.com/kumawatdarshan/bevy_lint-flake) - Simple flake for bevy lint (2 months ago)
 - [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (2 months ago)
 - [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (2 months ago)
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [cantools/cantools](https://github.com/cantools/cantools) (3 days ago) - CAN bus tools.
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) (3 days ago) - OpenShell is the safe, private runtime for autonomous AI agents.
-- [loco-rs/loco](https://github.com/loco-rs/loco) (4 days ago) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
-- [dtolnay/syn](https://github.com/dtolnay/syn) (1 week ago) - Parser for Rust source code
-- [Helix-Unstable/helix-unstable](https://github.com/Helix-Unstable/helix-unstable) (1 week ago) - A modest fork of helix to incorporate some nice stale PRs
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) (3 days ago) - Tool for automatic PS5 executables porting to Linux and Windows
+- [storytold/photocraft](https://github.com/storytold/photocraft) (3 days ago) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- [fxzzi/NixOhEss](https://github.com/fxzzi/NixOhEss) (3 days ago) - [mirror from gitlab] my personal nixos flake
+- [LuxLang/lux](https://github.com/LuxLang/lux) (4 days ago) - The Lux Programming Language
+- [alper-han/CrossMacro](https://github.com/alper-han/CrossMacro) (4 days ago) - Cross-platform desktop automation app with macro recording, playback, scheduling, text expansion, CLI tools, and Wayland/X11-aware Linux support.
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
