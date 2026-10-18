@@ -14,8 +14,8 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 - [kumawatdarshan/nix-dots](https://github.com/kumawatdarshan/nix-dots) - My System Configuration managed by nix. (1 month ago)
 - [kumawatdarshan/bevy_lint-flake](https://github.com/kumawatdarshan/bevy_lint-flake) - Simple flake for bevy lint (2 months ago)
 - [kumawatdarshan/tree-sitter-mcp](https://github.com/kumawatdarshan/tree-sitter-mcp) - Tree Sitter MCP server. (2 months ago)
-- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (2 months ago)
-- [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (2 months ago)
+- [kumawatdarshan/Gbait](https://github.com/kumawatdarshan/Gbait) - Novice attempt at building a GBA emualtor (3 months ago)
+- [kumawatdarshan/Vanish](https://github.com/kumawatdarshan/Vanish) - Hide secret messeges in your png files.  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) (3 days ago) - Tool for automatic PS5 executables porting to Linux and Windows
-- [storytold/photocraft](https://github.com/storytold/photocraft) (3 days ago) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
-- [fxzzi/NixOhEss](https://github.com/fxzzi/NixOhEss) (3 days ago) - [mirror from gitlab] my personal nixos flake
-- [LuxLang/lux](https://github.com/LuxLang/lux) (4 days ago) - The Lux Programming Language
-- [alper-han/CrossMacro](https://github.com/alper-han/CrossMacro) (4 days ago) - Cross-platform desktop automation app with macro recording, playback, scheduling, text expansion, CLI tools, and Wayland/X11-aware Linux support.
+- [ioncodes/sly](https://github.com/ioncodes/sly) (1 day ago) - A modern multi-system emulator and debugger written in Rust. Supports Windows, Linux, macOS, Browsers and mobile phones!
+- [testcontainers/testcontainers-rs-modules-community](https://github.com/testcontainers/testcontainers-rs-modules-community) (4 days ago) - Community maintained modules for Testcontainers for Rust
+- [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) (4 days ago) - SteamOS session compositing window manager
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) (1 week ago) - Tool for automatic PS5 executables porting to Linux and Windows
+- [storytold/photocraft](https://github.com/storytold/photocraft) (1 week ago) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
