@@ -27,11 +27,11 @@ Let’s chat about Linux magic, RPG min-maxxing or just the current DHH scene.
 
 #### ⭐ Recent Stars
 
-- [ioncodes/sly](https://github.com/ioncodes/sly) (1 day ago) - A modern multi-system emulator and debugger written in Rust. Supports Windows, Linux, macOS, Browsers and mobile phones!
-- [testcontainers/testcontainers-rs-modules-community](https://github.com/testcontainers/testcontainers-rs-modules-community) (4 days ago) - Community maintained modules for Testcontainers for Rust
-- [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) (4 days ago) - SteamOS session compositing window manager
-- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) (1 week ago) - Tool for automatic PS5 executables porting to Linux and Windows
-- [storytold/photocraft](https://github.com/storytold/photocraft) (1 week ago) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) (4 days ago) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
+- [ioncodes/sly](https://github.com/ioncodes/sly) (1 week ago) - A modern multi-system emulator and debugger written in Rust. Supports Windows, Linux, macOS, browsers and mobile phones!
+- [testcontainers/testcontainers-rs-modules-community](https://github.com/testcontainers/testcontainers-rs-modules-community) (1 week ago) - Community maintained modules for Testcontainers for Rust
+- [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) (1 week ago) - SteamOS session compositing window manager
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) (2 weeks ago) - Tool for automatic PS5 executables porting to Linux and Windows
 
 <div>
     <a href="#"><img alt="Darshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kumawatdarshan&custom_title=Darshan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
